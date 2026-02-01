@@ -1,0 +1,233 @@
+Screech
+629
+View source
+Not to be confused with SCJVEREECH, the glitched counterpart of Screech.
+
+Screech
+Normal
+Dead Piles
+Normal
+INFORMATION
+Type
+Hostile (Fatal)
+Behavior
+Makes a "psst" sound and bites a player if they don't look at it fast enough. They scream and retreat into the darkness if they are stared at in time.
+Floors
+Canon Floors:
+The Hotel
+The Mines
+Floor 3 (Very Likely)
+Non-Canon Floors:
+
+SUPER HARD MODE!!!
+RETRO MODE
+PARTY MODE
+BATTLE MODE
+2025 Trick or Treat
+Visions
+
+Cringle's Workshop
+Daily Runs
+Other Floors
+
+HOTEL-
+Damage
+Damage 40
+ADDITIONAL INFORMATION
+Date Added
+August 10, 2022
+Creator(s)
+RediblesQW
+SOUND FILES
+Speech
+"Psst..."
+- Screech when warning a player of their presence.
+Screech is a hostile entity in DOORS that resides in The Hotel and The Mines. In The Hotel, it has a chance to spawn in any dark room; in The Mines, it can spawn in almost any room, regardless of light level.
+
+
+Contents
+1	Appearance
+2	Behavior
+2.1	Notes
+2.2	SUPER HARD MODE!!!
+2.3	RETRO MODE
+2.4	PARTY MODE
+2.5	HOTEL-
+2.6	Modifiers Notes
+3	Modifiers
+4	Bugs
+5	Jumpscares
+5.1	1st Person
+5.2	3rd Person
+6	Trivia
+7	Related achievements
+8	History
+9	Gallery
+10	References
+00:00
+
+41:20
+
+
+
+
+
+Overview Appearance
+Screech is a small creature with pale pink skin, with most of its body being coated in a pitch-black and lustrous substance that retains a slimy or gooey consistency. It possesses 6 tentacles that are attached around its body in a circular pattern, with a dry, sinister, yet unsettling smile with two glowing white eyes. It has pearly-white human-like teeth with red gums.
+
+Behavior Behavior
+Screech is able to spawn in most dark rooms, including rooms darkened by entities like Rush. Upon spawning, it will fade in and float near the player, and after a few moments, a player will hear a quiet static sound and a slight shaking of the screen. Following that, Screech will emit a "psst" sound. If players do not look directly at it within a certain amount of time, it will bite the player, dealing 40 damage. If players do look directly at it, Screech will scream, and quickly despawn. Actively using or being near any light sources decreases the chance of Screech spawning. Light sources can be shared with other players, and can be "stacked."
+
+In The Mines, Screech is the most frequent entity, as it can spawn in any room regardless of it being dark or not, and can attack as early as door 101. It will not spawn in Seek chases, Halt's hallway, The Adit, The Dam or The Woods.
+
+Notes
+Light sources only reduce the chance of Screech appearing, but do not make it disappear entirely, so it can still spawn while using the light.
+Screech can be banished by the crucifix, but only if players do not look at it. Screech is chained in the air by the blue chains while flailing its tentacles and shrieking. It is then forcefully put into the hexagram below it with a disorienting, slimy-sounding smack.
+It is possible for Screech to follow players into rooms where it can't spawn.
+Players can avoid and despawn Screech by hiding or climbing on a ladder.
+This is most likely due to balancing reasons as to make it more fair for a player.
+Before The Hotel+ Update it was also possible for Screech to spawn while hiding.
+Since Screech is a client-sided entity, ping factor doesn't have any effect on how it attacks.
+Other players and spectators cannot see Screech spawn or attack you. (This is not the case in Battle Mode)
+It is possible to look at Screech before its sound cue plays.
+When Screech spawns, a very quiet static sound will play, which signals Screech is there before its "psst!" sound cue.
+A player's camera will shake slightly whenever Screech spawns in, which is more noticeable when standing still.
+The shake is related to the sound cue. During the static sound, the camera shakes, and right when Screech’s "psst" sound plays, the shaking will stop.
+Screech spawns directly behind players, so it is recommended for players to proceed in a straight line or at a 90-degree angle to help detect where Screech is.
+Screech is most prominently found either on the ceiling, at eye level, or on the floor. When dealing with Screech, players should check those places first. Rarely, Screech will spawn directly beside players. As this is not common, players should only look next to them after they have confirmed Screech has not spawned behind.
+Eyes and Lookman will be unable to damage the player if Screech is following them.
+Screech can't spawn while Rush or Ambush are active.
+Using they're respective Modifiers, it can still spawn during Blitz, A-60, A-120 and glitched entities encounters, however.
+Screech won't be able to spawn if the player is AFK since The Mines Update.
+Screech gradually spawns more frequently for the more time you spend in a dark room.
+The "psst" sound Screech makes can also occur outside of dark rooms, though this is solely to startle a player,[1] and Screech will not spawn.
+The fake audio cue is noticeably quieter and softer than the real one, allowing players to know if Screech has spawned or not.
+Players can easily confirm the audio cue as fake if they are not currently in a dark room (Hotel only).
+The fake audio cue is also not a player. But what or whoever made this sound, is truly unknown, but it is speculated that it is Screech faking out players solely to scare them, similarly to Rush.
+The fake audio cue also may have been made by El Goblino, as he has stated he makes most of the noises throughout The Hotel, even though players shouldn’t really be able to hear it from very far away.
+In The Nest, multiple piles of dead Screeches are scattered throughout.
+It's possible for Screech to appear while moving through crawlspaces. Players might not be able to see Screech in this scenario and it is therefore recommended to quickly get out of the crawlspace.
+Screech will have a lower chance of spawning when there are more players.
+Despite The Basement being a dark room, Screech has a lower chance of spawning there.
+This is because players need more time to open the next door, compared to the average time needed to open the next door of a small basement.
+Screech instantly despawns if a cutscene is activated.
+If players are attacked by Dupe before the audio cue is given, they could be given little to no time to react, especially if they are at low health.
+Before The Hotel+ Update, Screech could not spawn in rooms that were darkened by Rush or Ambush, as they weren't considered dark rooms by the game.
+
+Advertisement
+SUPER HARD MODE!!!
+Screech appears more frequently in dark rooms.
+Screech's caught sound is sped-up version of the woman yelling in the meme "Why are you running?".
+RETRO MODE
+Screech spawns more often and can spawn on any room.
+Screech will explode when caught in eye contact.
+PARTY MODE
+Screech's sound cue is slightly quieter.
+When Screech is following a player, other players will be able to see a 2D wiki render of Screech following that player.
+This is a placeholder considering that this feature may be implemented in the Outdoor Update as a 3D model outside of PARTY MODE.
+As of August 30th 2025, this has not been added into the main game yet.
+HOTEL-
+Screech gives less time to react.
+If Rush or Ambush passed in a room and broke the lights, Screech won't spawn.
+Modifiers Notes
+If the 'Bad Electrical Work', 'Power Shortage', or 'Lights Out' modifiers are enabled, Dark Rooms are more common, increasing the chances of Screech spawning. With the modifier 'Lights Out', every room will be a dark room, allowing Screech to spawn in most rooms.
+'I'm Everywhere' allows Screech to spawn in light rooms, exactly like in The Mines.
+Screech can spawn during Seek's chases, Halt's Hallway, and The Electrical Room when this modifier is active.
+It will not be able to spawn in the Reception, however.
+It also allows Screech to spawn during minigames (such as the Door 50 combination lock and the Door 100 power box puzzle).
+'Think Fast' and it's extension, 'Think Faster' increases the chance of Screech spawning and decreases the window for players to look at it.
+In the past, if the modifier "Lights Out" was active, Screech would not spawn in any room, because the game was considering the rooms were not dark because the dark room sound never plays. After THE HUNT update, this does not apply anymore.
+If the modifier 'Trick or Treat' is active, and the player gets the "Psst" effect from a piece of candy, Screech will spawn regardless of what room the player is in, similar to "I'm Everywhere".
+Modifiers Modifiers
+I'm Everywhere
+"Screech can attack in any room."
+Floors: The Hotel
+Knobs +5%
+Think Fast
+"Screech will attack more and give less time to react."
+Cannot be used with: 'Think Faster'
+Floors: The Hotel, The Mines, The Backdoor (With Admin Panel), The Rooms (With Admin Panel), The Outdoors (With Admin Panel)
+Knobs +5%
+Think Faster
+"Screech will attack much more and give even less time to react."
+Requires 'I Hate You'
+Cannot be used with: 'Think Fast'
+Floors: The Hotel, The Mines, The Backdoor (With Admin Panel), The Rooms (With Admin Panel), The Outdoors (With Admin Panel)
+Knobs +10%
+
+Advertisement
+Bugs Bugs
+Screech can spawn right after the first Seek chase in The Mines while still riding the minecart when entering Door 150.
+Screech will disappear if the Grumble cutscene ends before it is able to attack, but otherwise, it attacks as normal.
+Screech can spawn in light rooms without the 'I'm Everywhere' modifier, only by bugs however.
+This is possible if Shadow spawns in a dark room, having a chance to make the room light, but the game thinks the room is still dark so it allows Screech to spawn.
+If a player is immobilized by any entity or mechanic while Screech is following them, it will instantly damage the player with no jumpscare, even if it still didn't make its sound cue. This bug has been happening since The Hotel+ Update. These are all the cases where this bug can happen:
+When Void or Glitch immobilize the player in their jumpscares.
+When Haste or Dread reach the player and immobilizes them.
+Before The Mines Update, when doing the Circuit Breaker Puzzle.
+Since The Mines Update, dodging the first Screech sometimes works with some delay, playing its sound and moving the player's camera some time after it was actually dodged.
+Since The Hunt Update, Screech was able to spawn while doing the Circuit Breaker Puzzle if The Electrical Room was dark (or with the 'I'm Everywhere' modifier), being impossible to avoid. This was fixed in The Mines Update, as Screech now despawns when doing the puzzle.
+Before The Hotel+ Update, Screech used to attack immediately or give very little time to react to the "psst" sound. This has been fixed in The Hotel+ Update.
+However, this can still happen with "Think Faster" modifier which is not a bug as Screech attacks faster with this modifier.
+If Screech is around a player, and they interact with a hiding spot multiple times in quick succession, the text "Something is stopping you from hiding..." will appear (although players still can hide) for an unknown reason.[2]
+Screech can very rarely spawn without the slime effect on it due to parts not loading in.
+The chances of this will increase if a player uses high graphics, due to the slime material being reflective.
+In some locations, the modifier 'Think Faster' will make Screech spawn and attack the player without them having time to look at it.
+Jumpscares
+1st Person
+Screech rushes in front of the player's screen and bites them, before quickly retreating. If the player is at or below 40 HP, Screech will bite the player for a second time to kill them.
+
+3rd Person
+The player looks behind them and Screech is not seen before or after its attack, if the player is at or below 40 HP, the player will fall after they looked behind them.
+
+
+Advertisement
+Trivia Trivia
+Screech might be named after the fact that it makes loud screams other than its "psst" sound.
+Screech was originally going to be named Screature[3].
+Screech, in its plushie form, was able to be seen on the fireplace in the Lobby.
+Screech is one of the entities to have been featured in a thumbnail (Tower Heroes Event). The others being Figure (Tower Heroes Event), Seek (Before Hotel+), Dupe (After Hotel+), The Lookman (After The Hunt), Gloombats (The Mines), Rush (After Content Update) and Groundskeeper (The Great Outdoors).
+When Screech spawns around a player, Screech is not shown for other players and spectators.
+This is because Screech is a client-sided entity, just like Dread, Timothy, Haste, Halt, A-90 and Jack, which means it is unique for each player that is alive.
+Screech was added less than a week before release, due to RediblesQW getting the idea from a nightmare he had the night before.
+It is also implied that Screech resembles the actual monster Redibles's had in a nightmare, only with fewer tentacles.
+The "psst" that Screech makes was also from a nightmare RediblesQW had experienced.
+Screech is one of the few entities with their own official Makeship plushie, the others being Seek, Figure, and El Goblino.
+During the Hotel+ Update, the plush was in the lobby.
+Screech has 4 UGC items: the Screech Head, the Screech Bag, the Screech Headphones and the Screech Mask.
+Redibles stated that he may make a UGC item in reference to Screech's bottom half.
+The reason this didn't originally exist was because RediblesQW wanted players to choose their skin tone and face to go along with the head.
+There are two codes that reference Screech.
+The SCREECHSUCKS code is a reference to Screech's notorious reputation in the DOORS Community.
+PSST is another code referencing the sound Screech makes before attacking an unsuspecting player.
+Like Timothy, instead of latching onto a player, Screech jumpscares the screen.
+Screech is one of the five entities that always turn player's camera to face them, the others being Glitch, Dread, Haste and Giggle.
+As long as players have light sources, it is possible to complete a successful run without encountering Screech, although it may be very unlikely due to it being able to spawn in The Greenhouse, all of which consists of dark rooms (excluding Door 90 and Door 99).
+Screech immensely dislikes Seek due to Seek corrupting them.
+Screech's audio in SUPER HARD MODE is also used in LSPLASH's other game, Ragdoll Universe, once a player joins a game, the audio will play but a short version will play.
+Screech’s "I See You" achievement description “Peek-a-boo!” might be a reference to a kids’ game called Peek-A-Boo, where someone will put their hands on their face, covering it up, then remove their hands saying: “Peek-a-boo!”.
+Banishing Screech with the Crucifix will prevent it from spawning for 2 minutes and 30 seconds, despite its achievement saying 5 minutes.
+The description of the “I Hate You” achievement references the onion carriage scene in Shrek 2. It is also a reference to Screech's reputation among the DOORS community.
+Screech is one of the only entities that can be banished with a unique animation. The others being Giggle, Seek, Grumble, Figure and Gloombats.
+When a player uses the Crucifix, the sound of Screech is low-pitched and distorted.
+Screech doesn't appear in The Rooms and The Backdoor, even in the darkest rooms.
+Screech can appear during Seek's crescendo, only if a dark room occurs during its crescendo, but not during the chase itself.
+Because Dark Rooms can spawn as early as Door 9, and Rush can break the lights as early as Door 2, it is possible to encounter Screech before Dupe.
+RediblesQW has implied that Lightning Splash did the voice for Screech, although he is unsure.
+The slime covering Screech might hint at a connection to Seek.
+Additionally, Screech's anatomy is very similar to a Giggle, suggesting they are an identical species.
+This could be further proved at the fact that multiple Screech bodies appear during the boss fight against Grumble at The Nest, in which a theory could be proposed about Screech and Giggle being one and the same species. Further credence to this is provided in the Cringle's Workshop Event, where Glitch’s message upon the player dying to Screech initially calls it a Giggle, before confusedly correcting itself with Screech and noting the conflicting information.
+Screech has the ability to watch a player in a dark room without going up to them.
+Prior to Hotel+, Screech was one of the only entities that could attack players while they were hiding.
+As of now, Screech will despawn whenever a player enters a hiding spot, and occasionally the game will display the text “Something is stopping you from hiding...” despite allowing players to enter.
+Screech is vulnerable to heat. LSPLASH confirmed that it would "probably die" if put into an oven for six minutes at 500° F (260° C).[4]
+A lot of people believe Screech is based off of a child, regarding the nightmare, the real inspiration of it. This is because Screech has a high-pitched voice and tricks players by sneaking up on them and making a sound behind them.
+This relates to a little game kids play on people by sneaking up on them by hiding and making a small noise to confuse them. This is called a sneak attack, but in a way the person about to sneak up wants to distract them before noticing them.
+This is a possible reason of why it screams when players find it, as if the person finds the child who is trying to trick them.
+Screech was LSPLASH's favorite entity to work on because it scared his friends.
+El Goblino’s dialogue about the Tower Heroes Event which says "Had a dream last night, was being chased by those screechy-düds, uff... but I was saved! So it's okay." implies that there are multiple Screeches, as he doesn’t refer to any of the other entities in plurals.
+RediblesQW, a DOORS developer, said on Twitter that "the back of Screech's model isn't well designed at all and is quite disturbing..."[5]
+When Screech appears there is a chance its goo/slime doesn't appear due to an error, this became a meme in DOORS community called "Bald Screech".
+Screech is LSPLASH's favourite entity in the game.
+Glitch also likes the entity.
+According to Glitch, Screech attacks its prey by sneaking up on them, but flees if it is found.

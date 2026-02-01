@@ -1,0 +1,214 @@
+Eyes
+370
+View source
+Not to be confused with Eyestalk, an entity from The Outdoors.
+
+Eyes
+Eyeopt2
+INFORMATION
+Type
+Neutral (Fatal)
+Behavior
+Spawns in a random position and damages players who stare at it. In The Mines, it can also teleport.
+Floors
+Canon Floors
+The Hotel
+The Mines
+Floor 3 (Very Likely)
+Non-Canon Floors
+
+RETRO MODE
+PARTY MODE
+Battle Mode
+2025 Trick or Treat
+Visions
+
+Daily Runs
+Other Floors
+
+HOTEL-
+Damage
+Damage 3-10 per tick
+Health
+3 (Repents)
+ADDITIONAL INFORMATION
+Date Added
+August 10, 2022
+Creator(s)
+Lightning Splash
+SOUND FILES
+Speech
+"You died to the Eyes.. They don't like to be stared at."
+- Guiding Light
+The Eyes are a supporting neutral entity in DOORS, appearing in The Hotel and The Mines. Eyes have a chance to spawn once the player opens the door to a new room.
+
+
+Contents
+1	Appearance
+2	Behavior
+2.1	Notes
+2.2	SUPER HARD MODE!!!
+2.3	RETRO MODE
+2.4	PARTY MODE
+2.5	HOTEL-
+3	Bugs
+4	Trivia
+5	Jumpscares
+5.1	1st Person
+5.2	3rd Person
+6	Strategy
+7	Related achievements
+8	Related modifiers
+9	History
+10	Gallery
+11	References
+logo
+00:02
+
+41:20
+
+
+
+
+Overview Appearance
+Version 3
+Version 2
+Version 1
+Eyes appear as a cluster of 38 different colored eyes surrounded by a dark purple aura in the shape of a giant human eye, emitting a vivid bluish-purple glow.
+
+Behavior Behavior
+Eyes have a chance to spawn when a player opens a door to the next room. Upon spawning, they will emit a bluish-purple glow. There is a brief grace period to give players time to react, after which they will rapidly damage any player that looks at them.
+
+Eyes deals damage to the player ranging from 3 to 10 points of damage-per-shoot. The amount of damage depends on its position on the player's screen. The closer Eyes are to the center of the screen, the more damage they inflict. Conversely, when Eyes are positioned near the edges of the screen, it deals less damage.
+
+Within The Mines, Eyes was given the ability to teleport, with the chance to appear in front of the player and give them damage(this is also found in one of the scrapped modifiers for Eyes). Eyes will despawn when the next door is opened, but have a chance to spawn twice (or more) in a row, swiftly move to the next room, leaving a trail behind.
+
+Eyes will flash white aura upon damaging the player. In first person, if the player dies, they will pull the player's eyes towards them, and the purple shadow behind Eyes will engulf the screen before the death screen. In third person, while Eyes damages the player, said player will attempt to cover their eyes before looking at them one more time before the player's head falls off.
+
+Notes
+Eyes' aura color is randomized, as it can be either purple or blue.
+Eyes' ambience sound will become sped up when jumpscaring the player.
+During a lag spike, if the player is looking at a door that Eyes are behind, they can die instantly or take a lot of damage due to the intense lag slowing down FPS. This can commonly happen if Eyes appear when a player exits The Library.
+Eyes can spawn in the Courtyard, the Dining Room, the Greenhouse, and the Infirmary.
+Eyes cannot spawn in the Reception, the Library, the Electrical Room or during Seek's crescendo.
+If the player is using the 'Always Watching' modifier, they will spawn in every room, including Seek's chases and Figure's rooms.
+They won't spawn in The Reception, however.
+It is possible to complete the game without encountering Eyes, but it is unlikely due to them having a higher chance of spawning in The Greenhouse.
+Eyes emit a slight scream whenever they damage a player. While walking very near Eyes, you can hear it muttering and screeching softly.
+Eyes won't damage the player in different situations, closing their eyes to indicate this. Lookman acts the same way but without visual changes.
+If the player is hiding in a hiding spot.
+If the player is climbing a ladder.
+If a cutscene is playing.
+If Screech is present around the player.
+If Giggle is on the player's face.
+If the player is stuck on a Snare.
+If Dupe is attacking the player.
+If Void is jumpscaring the player, although they can still damage the player (likely a bug).
+If Glitch is jumpscaring the player, although they can still damage the player (likely a bug).
+Eyes have a very large range of damaging players, they can damage and kill the player if they look at them from the farthest not deleted room.
+Eyes can sometimes spawn behind doors, making them (mostly) friendly.
+When using the Crucifix on Eyes, there will be a delay before the crucifix is activated. This is likely to prevent accidentally wasting the crucifix if the player accidentally looks at Eyes.
+Eyes screams before the Crucifix is activated.
+Other entities (commonly Rush) can despawn Eyes by opening the next door.
+The chance of Eyes spawning is 3%, or 
+3
+100
+{\displaystyle {\frac {3}{100}}}.
+The chances of Eyes spawning in the Painting Puzzle Room is 0.0606060606% or 
+1
+1650
+{\displaystyle {\frac {1}{1650}}}.[citation needed]
+However, Eyes have a higher chance of spawning in the dining room in SUPER HARD MODE.
+Eyes can spawn right after Seek's chase.
+Eyes can also spawn right after exiting Halt's hallway.
+As of The Hunt update, Eyes can now spawn in dark rooms (if you don't count the Greenhouse), therefore working as a light source.
+Eyes can spawn at the same time with Rush, Ambush and A-60 (with modifiers).
+When using the "Room for More" modifier, Eyes can spawn at the same time with A-60, making it hard to hear because of their whispers.
+If Eyes spawn in a Dupe room, they will almost always spawn closest to the real door.
+This can happen with any of the Eyes-based Modifiers activated.
+Keep in mind that they will still spawn closer to the correct door in the Seek chase, even though these rooms do not contain Dupe doors.
+This can also occur with Subspace Tripmine doors in SUPER HARD MODE.
+Eyes can act like a light source in the Greenhouse and dark rooms.
+Eyes' light is not seen in blood rooms made by Jack.
+Eyes may sometimes spawn in the Infirmary, although this is likely a bug.
+Eyes will teleport more frequently the longer the player is in a room with them.
+
+Advertisement
+SUPER HARD MODE!!!
+The chance of Eyes spawning in is significantly greater.
+They can even spawn in the following rooms:
+Jeff Shop.
+Any room during Seek's crescendo.
+RETRO MODE
+Eyes spawn more often.
+Eyes don't have an aura, making it harder to detect.
+Eyes can attack the player even if the player is hiding inside a closet.
+PARTY MODE
+Eyes despawn after 3 doors are opened after the room they spawned in, instead of 1.
+Eyes are moving constantly and will bounce off the walls.
+Eyes have the ability to teleport as in The Mines.
+HOTEL-
+Eyes deals more damage.
+Eyes will still deal damage even if the player is very far away.
+Bugs Bugs
+Eyes' whispers can appear before the spawn sound.
+There is currently a bug with the "Seeing Double" and "Four Eyes" modifier that allows the player to select this modifier, if the player has "Not Five Stars" and "Hotel Hell" achievement, even if the player does not have the "You Can't See Me" achievement.
+If player continues walking after taking damage from Eyes with "Injuries" modifier their walk speed will not change until player stops moving.
+There is a bug since The Backdoor update, where the player is forced to look at Eyes after Seek's cutscene, being completely unavoidable, as the player takes damage before being able to move the camera. This only happens with modifiers ("Always Watching", "Seeing Double" and "Four Eyes").
+This, together with "Last Breath" can make the game completely impossible unless Eyes don't spawn right in front of the door, with enough luck.
+If Eyes spawn and the next door is opened extremely fast, they won't despawn. Two sets of Eyes can be active at the same time because of this bug. It is a lot more common with speed modifiers.
+Eyes have a chance of spawning outside of the room, but their lights and sounds can still be heard.
+There is currently a bug with the 'Nosey' modifier where Eyes spawns in every room except the first 5 rooms, the seek chase, the infirmary, the Library, Jeff Shop and Halts sequence.
+When "Seeing Double" or "Four Eyes" modifiers are active, you can crucify 2 Eyes at the same time
+However, it is currently unknown why you can't crucify 4.
+Trivia Trivia
+Eyes were originally going to be named "Lookman."[1]
+LSPLASH wanted to rename Eyes to "Stare" because they were often confused with Seek's eyes and didn't follow the same naming scheme as the other entities, but he didn't because he thought it was too late.[2]
+An entity in The Backdoor with a nearly identical mechanic was later named "the Lookman."
+In The Mines, Eyes behave even more like the Lookman, as they can now teleport. However, the Lookman will only teleport after damaging a player, while Eyes will teleport randomly every few seconds.
+Redibles has expressed interest in a UGC hat/face accessory based on Eyes.[3]
+There is a UGC item based off Eyes, however, it is a back accessory, and you can find it here.
+Eyes' texture is made of 38 individual eyes.
+However, their achievement icon features more eyes than the entity has in-game, with a total of 60 eyes, and in their crucifix achievement, only 21.
+The remaining 17 eyes are barely visible due to how dark the achievement icon is.
+Eyes and Giggle are the only entities to attack using repeated, rapid-fire damage, unlike most entities which typically instantly kill or do a set of damage.
+Eyes used to be able to spawn behind the blocked doors in ventilation (vent) rooms, which would result in players completely avoiding them due to it being impossible to enter through such doors.
+In the Hotel+ update, vent rooms with blocked doors were removed, making this no longer an issue.
+Upon using the crucifix on Eyes, the entity will play a noise called "Repent," an edited version of Seek's unused repent noise.
+When using a crucifix on Eyes, their bluish-purple glow will turn dark red.
+Eyes cannot spawn on a firedamp room
+In Tower Heroes, Eyes' death sound is the same as the sound emitted when they are being crucified.
+The player is actually able to look at Eyes, but only once the crucifix process has started.
+It is also possible to look at Eyes when the next door is opened but Eyes haven't disappeared yet. The entity stops dealing damage immediately after the next door is opened.
+Before The Backdoor was added, Eyes didn't have a jumpscare; the player would just fall into the void. This also happened in Super Hard Mode.
+As of the Backdoor event, Eyes do have a jumpscare, in which the camera gets quickly pulled towards them.
+From a third-person point of view, the dying player grabs their head for a few seconds. Then, the player's head pops off, and they fall to the ground.
+It is believed that Eyes' crucifix badge title is a reference to John Cena's "You Can't See Me" meme.
+The badge for crucifying Eyes had a different description. Before It was "That probably wasn't the best use of one of these.", but it was changed in The Hunt update to "Stop staring at me with them big ol' eyes!".
+The new achievement description a reference to this clip from SpongeBob SquarePants.
+Eyes' badge description is a reference to a line in "Face Off", an episode of Breaking Bad.
+Eyes' sparkles use a texture called "sanseyelol".
+This texture is also used for Halt and Guiding Light.
+The texture's name was changed to "why are you guys commenting on this" after an influx of users commented on the texture.
+Eyes' whispers come from this audio. This audio is also used by Halt.
+Eyes' attack sound comes from this sound effect.
+Eyes can spawn as early as Door 5 and as late as door 98.
+Very rarely, Eyes can spawn outside of the map.
+Eyes have spawned during the Seek chase multiple times when the developers were trolling KreekCraft.
+Eyes are one of the only entities that Guiding Light and El Goblino refer to with a different set of pronouns, using they/them when mentioning them instead of "it". The other such entity is Snare, although this could be due to multiple Snares often appearing in the same room.
+This implies that Eyes are actually a group of entities instead of one singular entity. However, this hasn't been confirmed and is only speculation.
+Eyes were once in combat with Bob, according to El Goblino, who referred to them as "those eye thingies".
+There's an ambient sound similar to Eyes' attack sound that can be heard in the Hotel.
+
+Advertisement
+Jumpscares
+1st Person
+The camera will be forced to look at Eyes, and the screen will zoom into Eyes while the screen turning purple until it is bigger than the screen, and die.
+
+3rd Person
+The player will do an animation. This animation shows the player holding their head with two hands, step back, and their head will explode from their body and ragdoll onto the floor.
+
+Trivia Strategy
+As soon as you hear their spawn cue, look down or away from the purple light. Eyes will disappear once the next door is opened.
+As Eyes are rather easy to deal with, it is best to not waste a Crucifix on them, unless a player encounters Void at the same time Eyes spawn.
+If you are lagging in multiplayer, it's best to keep looking down while not moving and let your teammate open the next door to despawn Eyes.

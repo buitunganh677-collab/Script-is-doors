@@ -1,0 +1,143 @@
+Jack
+133
+View source
+
+Jack
+Current
+Old
+Halloween (2025)
+April Fools (2023)
+Current
+INFORMATION
+Type
+Passive
+Behavior
+Makes a loud noise when you see it and disappears immeadiantly after 0.5-1s.
+Floors
+Canon Floors
+The Hotel
+The Mines
+Floor 3[1] (Extremely Likely)
+Non-Canon Floors
+
+SUPER HARD MODE!!!
+PARTY MODE
+2025 Trick or Treat
+Visions
+
+Cringle's Workshop
+Daily Runs
+Other Floors
+
+HOTEL-
+Spawn Rate
+1/200 (0.5%; In Closets and In Lockers)
+1/2000 (0.05%; Opening a door)[2]
+ADDITIONAL INFORMATION
+Date Added
+August 10, 2022
+Creator(s)
+Ghostly_Wowzers
+SOUND FILES
+Speech
+"Ooga booga!"
+- "Meet Jack" Achievement description
+Jack is a miscellaneous entity in DOORS, residing in The Hotel and in The Mines. Its main purpose is to frighten and/or hinder briefly players, as it deals no damage.
+
+
+Contents
+1	Appearance
+1.1	Scrapped version
+2	Behavior
+2.1	Notes
+2.2	SUPER HARD MODE!!!
+2.3	HOTEL-
+3	Bugs
+4	Trivia
+5	Related achievements
+6	History
+7	Gallery
+8	References
+00:00
+
+41:20
+
+
+
+
+
+Overview Appearance
+Jack takes the appearance of a black-and-white head with dark, hollow eyes and an unsettling smile, showing only its top teeth. Half of its face is obscured in darkness, while its neck fades out with a faint smoky effect. The in-game version has slightly less smoke effects, has a smaller mouth and less teeth are shown.
+
+Scrapped version
+Jack's teeth are a bit shorter, and its shadowed neck had a curve at the bottom.
+
+Behavior Behavior
+Jack can interfere with the player in various ways. A player cannot go inside a closet or locker when Jack is inside as it doesn't allow them in before abruptly closing the doors. However, opening the hiding spot once more will likely show that Jack has disappeared, and a player will be able to hide as normal. If Jack appears on the other side of a door, it will distort the room and engulf it in a dark red color with black spots for a few seconds before returning to normal.
+
+Notes
+Jack has a chance to spawn in The Hotel closets and The Mines lockers, it is uncapable of spawning in other hiding spots. Every time a player tries to hide in one of the two mentioned hiding spots, Jack has a 
+1
+200
+{\displaystyle {\frac {1}{200}}} (0.5%) chance to appear in it.
+When it spawns in a hiding spot, it will make the player unable to hide in it and will flicker briefly the lights around it.
+Jack's closet/locker form will temporarily de-activate and be unable to appear during Rush or Ambush attacks to prevent unfair deaths.
+Jack does not de-activate during Blitz attacks, during glitched entities encounters, in Figure sections and in Cringle's Workshop. It is advised to hide a little earlier in these cases.
+Jack has a 
+1
+2000
+{\displaystyle {\frac {1}{2000}}} (0.05%)[3] chance to appear in a room when opening its entrance. When Jack spawns in its Hallway form, it will make the lights flicker briefly in that room. It will turn everything in the room dark red, with moving black dots everywhere (doesnt include the door after and before), all of these effects will fade away until disappearing. If there is a window in the room, the rain outside will also turn blood-red, lingering forever unlike the rest of the room.
+If two or more Hallway Jacks spawn in the same room, the red colors won't fade away and will be permanently in the room. Although the moving black dots will slowly fade away as in a normal blood room.
+This event can happen in every room of The Hotel and The Mines, except for The Reception and The Adit.
+Entities that are capable of open doors (Rush, Gloombats, Seek...) can cause Hallway Jack to spawn opening the door.
+When Jack appears and a player dies to Rush or Ambush, the death message that pops up says "You died to ... because you couldn't hide."
+Eating a 'Nothing?' candy using the Trick Or Treat modifier will make Jack spawn in its Hallway form in one of the next 20 Doors.
+However, the "Meet Jack" achievement is not obtainable with this modifier.
+If Jack spawns in big rooms, like The Library, The Nest, The Electrical room or The Dam, it will cause a massive lag for a few seconds in low-end devices.
+This is specially lethal in The Nest, as players can get slowed down during the starting chase and die.
+SUPER HARD MODE!!!
+Jack wears glasses and looks "surprised", paying a homage to the internet meme, "Wojak" (more specifically, the "Soyjak" variant of the meme), which Jack's name references.
+Jack seems to have a higher chance of appearing upon opening the next door.
+HOTEL-
+Jack becomes unable to appear in closets when Rush or Ambush spawns, but can spawn again after opening the next door.
+Jack's spawn chance in closets is 
+1
+20
+{\displaystyle {\frac {1}{20}}} (5%).
+Bugs Bugs
+As of The Content Update, interacting with a hiding spot where Jack still is in will let players hide, however, they will instantly exit automatically shortly after entering. This is a bug, as players shouldn't even be able to enter the hiding spot if Jack is still in it.[4]
+As of The Content Update, While Jack is in a hiding spot, multiple players can hide in it at the same time, causing a very weird interaction where multiple players can be at the same time in the same locker or closet. The bug can last longer if the players keep entering.[5]
+Jack can sometimes make the room red without its appearance, caused by lag.
+Jack can sometimes make dark rooms a little bit lighter when outside the dark room. When a player enters the room, it has a chance to fall dark like normal.
+Prior to The Content Update there was a bug where Jack's closet form, it will not disappear visually, but players will be able to use the closet. This bug started happening in The Mines Update.
+This also made it impossible to get Jack's achievement through its closet form, as it is awarded when it disappears, not when it appears.
+There was a bug in which a player could walk through Jack's closet appearance and fall into the void. This has since then been patched.
+However, there is no documentation of this.
+
+Advertisement
+Trivia Trivia
+Ambush was originally going to be a character that behaves like Jack but was changed to be a standalone entity instead.
+There was originally going to be an entity similar to Jack that would have the same function as Jack except they would appear under beds instead of closets, but Lightning Splash decided to not go through with it. However, Ghostly Wowzers has stated that this entity may be added in the future.[6]
+This entity could have been what Ambush was back then.
+Jack was originally going to be named "Mobble".
+Jack was one of two "Mobble" entities during DOORS' development, the other being Ambush.
+Despite the achievement being called "Meet Jack", the code source is "EncounterMobble", and Jack's filename is "MobbleCloset"/"MobbleHall", depending on it's appearence.[7]
+Jack's name is a reference to the popular internet meme "Wojak", as its earlier design was photoshopped onto a picture of a Wojak by Redibles. [8]
+The older version can be found in-game,[9] whereas the updated version is the one seen on the wiki, due to Wowzers wanting Jack to look good where it can be seen best.[10]
+If Wowzers were to edit any of his entities in DOORS, it would be Jack.[11]
+Jack may be inspired by Specimen 1 from Spooky's Jump Scare Mansion. Both have the role of only scaring the player and occasionally hindering them.
+Jack may also be inspired by the Scare Dolls from Hotel Insanity, who also only scare players and prevent them from escaping danger.
+Jack, Glitch, and Shadow are the only entities that deal no damage upon jumpscaring a player.
+In The Content Update, Jack was implemented in lockers in The Mines and received a redesign.
+Jack and Sally are the first entities to get a redesign after the game's release.
+Jack has a shorter jumpscare when appearing behind a door than its closet jumpscare.
+Jack's image when inside a closet is flipped horizontally. This is due to Jack using beams for its texture, and not BillboardGuis or particles.
+Jack's design was not difficult to make, being mostly drawn in under a day.[12]
+Jack's filename is "scaryface".
+Jack's jumpscare sound comes from this audio.
+Redibles has expressed interest in a UGC backpack of a closet with Jack inside.[13]
+Jack will most likely appear on other future main floors.[14]
+Jack's achievement description may be a reference to a specific episode in the series made by Sr Pelo called "Spooky Month", a Halloween themed animation series which started as a joke, but it has since then become an entire series. The reference is in the episode 'It's spooky month', in which there are multiple instances where a character in the show named Ooga Booga says 'Ooga Booga!' and the other characters act terrified.
+Jack can be found in the painting titled "Captain Jack".
+This is a reference to the YouTuber CaptainJackAttack, since in the painting, Jack is wearing the same hat that CaptainJackAttack wears on his Roblox avatar.
+On August 4, 2023, a strange photo of Jack was uploaded by Ghostly_Wowzers, it is unknown if the image has any relevance to Jack's front facing design.

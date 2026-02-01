@@ -1,0 +1,198 @@
+Sally
+375
+View source
+
+Sally
+Current
+Old
+Halloween (2025)
+Halloween (2024)
+Current
+INFORMATION
+Type
+Hostile (Non-Lethal)
+Behavior
+Appears inside a random window and breaks into the room, chasing players and stealing their items.
+Floors
+Canon Floors
+Lobby
+The Hotel
+Non-Canon Floors
+
+2025 Trick or Treat
+Visions
+
+Daily Runs
+Other Floors
+
+HOTEL- (Appears as an easter egg)
+Damage
+Damage 2/3 of current HP & MAX HP divided by 1.3 (Non-Lethal)
+Spawn Rate
+Uncommon
+ADDITIONAL INFORMATION
+Date Added
+August 10, 2022
+December 20, 2024 (revamped)
+Creator(s)
+RediblesQW
+SOUND FILES
+Speech
+"This here scarf? Hmehh... stitched it fer my little princess. I'm keepin' it warm for er til' she finds er way home."
+- Grampy
+Sally, previously known as Window[2] by the community, is a minor entity in DOORS. As of The Content Update, she can now hop out the windows in The Hotel and chase players across the map. Before The Hotel+ Update, she would only briefly appear on the windows as a rare easter egg.
+
+
+Contents
+1	Appearance
+2	Behavior
+2.1	Notes
+2.2	HOTEL-
+3	Jumpscares
+3.1	1st Person
+3.2	3rd Person
+4	Bugs
+5	Strategy
+6	Trivia
+7	History
+8	Related achievements
+9	Gallery
+10	References
+logo
+00:02
+
+41:20
+
+
+
+
+Overview Appearance
+Version 2 (Current)
+Version 1 (Old)
+Halloween Spotlight
+The Haunt
+Sally's appearance seems to be that of a short young girl wearing a skirt and a belt with spiky hair. Her entire body is cloaked in a pitch black color, except for her white, glowing and smiling face.
+
+Behavior Behavior
+Sally, often in The Hotel, has a chance to pop out of a medium-sized window, before breaking into it. Players can simply know if Sally is spawning if they hear her laugh, before a window breaking sound then the lights flickering similarly to Rush.
+
+Sally will then proceed to jump out, start giggling and chase the player slightly above their default walking speed. If Sally is close enough to the player, she will jump on their face, leaving Sally's face marked on the screen, dealing damage to the player, before fading away and cause the player's vision to blur for a few seconds. Take note that hiding cannot shield the players from Sally and the entity will only despawn if all players are attacked by her, meaning she can chase you through multiple doors just like Seek.
+
+If a player was holding an item when Sally jumped on them, she will steal the item and play with it, before despawning. Also, if Sally finds an item (including items dropped by players) while chasing a player, she will stop and play with the item, and eventually disappear, without damaging the player.
+
+Sally's damage is very unique: When being jumpscared by Sally, she removes two thirds of the victim's current HP (capped to a minimum of 3 HP) and divides their current MAX HP by 1.3 (capped to a minimum of 50 MAX HP). This also means it is impossible to die to Sally.[3]
+
+Additionally, she sets the player's oxygen to 5% when jumpscaring them, being extremely lethal inside Firedamp rooms.
+
+Notes
+When Sally is seen outside the window, the lights will start to flicker in every room. When she breaks through the window, all the lights will break, making every room dark.
+These effects on the lights could also hide or make less noticeable important cues from other entities like Rush.
+Sally will always chase the nearest player or item. When she reaches a player, she jumpscares them and steals their equipped item if they have one. She will continue this behavior with other players until she finds and gets an item to play with (either by stealing it from a player through her jumpscare or picking it up after a player drops it or from a container). After she's played with an item for 15 seconds, she'll disappear.
+Sally won't chase already jumpscared players. This means she will despawn after jumpscaring every player, as she will have no objectives.
+If Sally's nearest objective is too far from her at any moment, she will teleport next to it.
+Sally ignores minor items and Glitch Fragments.
+Sally will not get try to get items in/on containers only if they spawned before Sally did. This is a bug.
+Things that aren't technically counted as "dropped", like thrown Glowsticks or placed Alarm Clocks are also ignored.
+When a player is jumpscared by Sally, their health will be divided by 3 and their max health will be divided by 1.3, with some limitations. She'll additionally set the player's oxygen to 5%.
+Health won't be able to go below 3 HP.
+Max health won't be able to go below 50 HP.
+This also means Star Shield won't be affected when being jumpscared by Sally.
+The effects in the player's health are produced even with God Mode.
+Sally can be crucified as of The Content Update.[4]
+Making Sally try to play with a Crucifix in any way will crucify her. By either holding it when being jumpscared or by dropping it so she gets it.
+Before the 12/22/2024 patch, Sally could play with dropped Crucifixes without being crucified.[5]
+Sally can also be interacted with after she starts playing with any item. Triggering this interaction while holding a Crucifix will crucify her. Doing this will make her drop the item she was playing with.
+Sally can spawn as long as there is any medium-sized window in the room, excluding the one in The Reception.
+This means, in The Hotel, Sally's earliest spawn is Door 1, and her latest possible spawn is Door 98[6].
+An example of a seed with her earliest possible spawn is 2367898.
+Seeds define the room where she spawns, but the window is random (if there is more than one in the room).
+Sally can only spawn if at least a player has at least 3 major items in their inventory.
+This was implemented at the start of the 2025 Black Friday Weekend Event.
+Sally can spawn more than once during a run and even multiple can spawn in the same room, but isn't guaranteed to spawn.
+Before The Great Outdoors Update, Sally couldn't spawn more than once during a run.
+
+Advertisement
+HOTEL-
+Sally will appear in windows (very rarely) and will disappear in the next thunder strike; she will not attack players.
+Jumpscares
+1st Person
+Sally will jump on the player's camera and her smile will be stuck on the screen before fading away, blurring the player's vision.
+
+3rd Person
+Sally will dive onto the player. This can only be visually seen in multiplayer.
+
+Bugs Bugs
+Since The Great Outdoors Update, Sally will not get items in/on containers if they spawned before Sally did.
+If Sally is crucified while having another Crucifix (not involved in the crucifixion), the Crucifix in the player's inventory will disappear too.
+Before the 2025 Black Friday Weekend Event Sally could spawn even if no one had three or more non-essential items, which was, as mentioned by NormallyAve, one of the developers, a requirement for Sally to be able to spawn.[7]
+This requirement instead applied when trying to spawn her with the Admin Panel. This was another bug.
+Before The Halloween Spotlight Event, the player's health bar normally became invisible after being jumpscared by Sally despite no longer having 100% health.
+Before The Great Outdoors Update, Sally couldn't chase players with God Mode, disappearing instantly if the only remaining players had God Mode.
+Before The Great Outdoors Update, the animation of Sally playing with items was broken because of the different shapes and sizes.
+Before The Great Outdoors Update, if Sally grabbed an item directly from a container, the whole container would be attached with the grabbed item.
+There used to be a bug where picking up an item right before Sally got it would make her keep walking in a straight line forever.[8]
+Trivia Strategy
+If any player has an item, they can drop it so Sally gets it and stops chasing players. If the run is in multiplayer, any item dropped from anyone will cancel Sally completely.
+If the players have no items to drop, it is very hard to avoid her jumpscare and damage.
+If this is the case, the safest thing they can do is trying to run away from her, so she finds another item in the way while being chased, as she will also get distracted by items that are naturally spawned.
+A Crucifix is useful against Sally if players are in a critical situation.
+Sally moves quickly, so it is recommended for players to use speed boosting items and not to come close in contact with her.
+Attempting to "juke" Sally will not work, since she phases through walls and moves in a straight line towards the player.
+Although if fast enough, players can outrun her to avoid being caught; for an extended period of time.
+Players need to make sure to not get jumpscared inside Firedamp rooms, as Sally will heavily decrease the player's oxygen, making them die almost instantly. There is almost no chance of survival unless the player is right by the door.
+
+Advertisement
+Trivia Trivia
+RediblesQW and Ghostly_Wowzers, who are DOORS developers, had originally stated that Sally's filename is "Sally". [9][2]
+Sally's filename was never referenced in-game.
+Ghostly_Wowzers previously stated that it is simply the name she is referred to as.[10]
+Before Sally's "official" name was known, the DOORS community nicknamed her as "Window", due to her spawn location.
+Sally's original model is the oldest model created for the game, even older than the Figure, being created on January 31st, 2021.[11][12]
+Sally's old model is a 3D model, not a decal or a particle emitter.
+Sally's model when outside a window is 2D. However, once she jumps out, it is seen as a 3D model.
+According to the meshes used for the old version of Sally, her eyes weigh 29 grams and her full mouth weighs 35 grams. This equals to her weight in real life being a total of 64 grams.
+However, in the Tower Heroes Collab, the eyes mesh is separated into two meshes, the same goes for her mouth; her left eye weights 16 grams, the right eye weighs 19 grams, her upper jaw weighs 13 grams and her lower jaw weights 18; thus, even though her Tower Heroes counterpart is smaller, she weighs more (66 grams).
+Ghostly_Wowzers previously confirmed that Sally would never be related to any in-game achievements, because she is "only an easter egg".[13] Wowzers has also stated and that Sally would likely remain an easter egg "for now",[14] but that she possibly would have an in-game mechanic in the future.[15][16] With the addition of the "Playtime" and "Playtime's Over" badges, this statement is now outdated.
+RediblesQW has implied the existence of a UGC Sally-themed backpack.[17]
+Sally's design was inspired by a Charlie shadow from Don't Starve.[18]
+Sally's design also resembles Frenzy from Spooky's Jump Scare Mansion.
+Her design also bears some resemblance to Norman from Scary Sushi.
+Her design coincidentally resembles The Thing from Hello Neighbor, most specifically the hair and overall color.
+While it was thought that Sally was a reference to The Backrooms' Smiler Entity, RediblesQW confirmed that this was only a coincidence.[citation needed]
+The jump animation for Sally right before her jumpscare and her face fading away right after might be a reference to Phantom Foxy from Five Nights at Freddy's 3, as their jumpscares are both very similar.
+Sally's spawn and jumpscare sequences may be inspired by this video since the lights flicker when they are encountered and they both jump at the player. This video has also been referenced before in the 2023 April Fools Event.
+Sally existed in-game before The Hotel+ Update as an easter egg. She appeared very rarely in the windows just as a smile, and she would disappear after the next clap of thunder. After the update, she could only be seen in the Lobby, as she previously was, but gone from the main game.
+Sally, in her old behavior, just like most rare entities, could 'kill' players indirectly by distracting players to their window and giving them less time to react to a possible threat.
+Eventually, after a long time, Sally was re-implemented in The Content Update to the game, with her current behavior.
+Sally is one of the two entities from The Hotel to not appear in The Mines, likely due to the fact that there are no windows for her to appear in. The other entity is Snare, although Snare was actually seen in The Mines in the floor's release.
+When she damages the player, she also divides their MAX HP by 1.3, however, if the result of this operation is under 50, it will be set to 50.
+This typically gives a huge advantage with the Modifier "Last Breath", as the player's MAX HP will go from 2 HP to 50 HP.
+Sally is one of six entities that can be found inside the Lobby, the other four being Seek (in the form of its eyes), Timothy, Curious Light (seen outside, lighting up The Backdoor entrance), Guiding Light (lighting up The Mines elevators) and Figure (festering meat).
+Sally is seen to be wearing a jack-o-lantern mask in the Lobby during the 2024 Trick Or Treat Event.
+Other entities like Bob and World Lotus have also been temporarily in the Lobby for certain events.
+Before The Content Update, a user on Twitter asked if Sally was removed from the game, and Lightning Splash simply replied with "Fair be prepared", which hinted towards her current mechanic.[19]
+The "Playtime" achievement's name and description is a reference to Playtime from Baldi's Basics.
+The achievement "Playtime's Over" description might be a reference to Andy in Toy Story 2.
+Sally and Guiding Light are currently the only confirmed female entities in the game.
+Sally is the only entity capable of changing players' maximum health.
+In the "Grampy's Scarf" UGC item description, Sally is heavily implied to be related to Grampy.
+Grampy's line when wearing the "Sally's Head" UGC confirms they are related. This means she may also be related to the Groundskeeper.
+According to El Goblino's dialogue, Sally sometimes tries to steal items from Jeff's shop.
+Sally was originally planned to release in The Mines Update, but was pushed back to The Content Update.[20]
+
+Advertisement
+History History
+August 10, 2025
+Polished, increased spawn chance again and also can spawn multiple times in a run.
+
+December 23, 2024
+Increased spawn chance.
+
+December 20, 2024
+Re-introduced with revamped mechanic.
+
+January 29, 2023
+Temporarily removed.
+
+August 10, 2022
+Introduced as an easter egg.

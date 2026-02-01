@@ -1,0 +1,186 @@
+Dupe
+414
+View source
+
+Dupe
+The Hotel
+The Mines
+The Hotel
+INFORMATION
+Type
+Hostile (Fatal)
+Behavior
+Tricks the player by spawning a fake and wrong numbered door in a room. If a player opens the fake door, it will attack the player.
+Floors
+Canon Floors
+The Hotel
+The Mines
+Floor 3 (Very Likely)
+Non-Canon Floors
+
+SUPER HARD MODE!!! (appears as Subspace Tripmine)
+PARTY MODE
+Battle Mode
+Visions
+
+Daily Runs
+Damage
+Damage 40
+Spawn Rate
+Low (Beginning)
+Common (When getting further in the game)
+ADDITIONAL INFORMATION
+Date Added
+January 28, 2023
+Creator(s)
+Lightning Splash
+SOUND FILES
+Speech
+"You died to Dupe... Dupe will trick you by hiding behind fake doors."
+- Guiding Light
+Dupe is a hostile entity in DOORS, appearing in The Hotel and The Mines, mainly in rooms with two or more numbered doors, typically in larger multi-door rooms. Dupe was one of the entities introduced in The Hotel+ Update.
+
+
+Contents
+1	Appearance
+2	Behavior
+2.1	Notes
+2.2	Modifiers
+2.3	SUPER HARD MODE!!!
+3	Jumpscares
+3.1	1st person Jumpscare
+3.1.1	1st person Old
+3.2	3rd person Jumpscare
+3.2.1	3rd person Old
+4	Modifiers
+5	Bugs
+6	Trivia
+7	Related Achievements
+8	History
+9	Gallery
+10	References
+00:00
+
+41:20
+
+
+
+
+
+Overview Appearance
+Dupe appears as a white face with a large, toothy smile with bloody teeth and a pair of red bloodshot eyes, everything other than its arms and face are cloaked by the darkness of the room it inhabits. Both its smile and eyes glow in the dark. Dupe also has a pair of dark black skeleton like arms each with 5 sharp fingers on the end. Most of its face is covered in red details, similar to blood.
+
+As of Floor 2 Update, once the Crucifix is used, the door to its room will be opened shortly after, revealing a hole on the ceiling with an ominous red mist and pieces of Dupe's arms and veins scattered inside the room.
+
+Behavior Behavior
+Dupe has a chance to spawn false doors marked with incorrect numbers in rooms with multiple possible doorways. Dupe can spawn up to 8-9 false doors in a single room (can spawn up to 11 false doors with certain modifiers). Dupe emits a quiet rumbling noise that can be heard when standing close to it. Dupe doors are able to spawn in locked rooms; any interaction with a lock on a Dupe door will cause Dupe to attack players.
+
+After a certain amount of time after a player opens a new door, Dupe will scramble the numbers on the plaques of all previous doors—and on Room Keys, if present—rendering them unreadable. As players progress, Dupe will give less time before scrambling plaques.
+
+If a player attempts to enter a Dupe door, the door will open, and Dupe will quickly lean its head forward, grab the player, bite them, throw them onto the floor and slam the door shut, dealing 40 damage. In 3rd person, this process appears as Dupe pulling the player close to it, throwing the player onto the ground, and then slamming the door. If the lost damage is enough to kill a player, Dupe will, in 3rd person, grab the player and pull them upwards, then slam the door. After Dupe has attacked a player, the number plate on the door will become blurred and unreadable.
+
+Notes
+If a player attempts to use a Room Key, lockpick, or skeleton key on a Dupe door, the item will not be discarded from their inventory.
+Dupe emits a quiet rumbling sound, which can be used to determine if the door is real or not. It is significantly louder in dark rooms, which usually starts to happen after Door 50 and will not happen in rooms that have become dark due to Rush or Ambush breaking the lights.
+Another strategy is to listen for ambience noises (rain, fire, flies, water, clocks etc.) which only play behind real doors. In dark rooms, players may also look for light pouring out from the real door's seams, if the next room has light.
+Prior to March 15, 2024, Guiding Light highlighted Dupe doors in dark rooms with a dimmer glow.
+In The Greenhouse, Dupe doors can easily be detected as their interiors will be pitch black when a light (including the Guiding Light) is shone on it, while real doors reveal the next room. It is unknown if this is intended or if it is a bug.
+If Rush or Ambush spawns in a room with Dupe, it will always pass through the correct door.
+If the threshold for Dupe to be inside of dark rooms hasn't been passed, Rush will also reveal the fake doors by scrambling their number plates.[verification needed]
+Furthermore, if a player is jumpscared by Dupe whilst Rush or Ambush are approaching, they may be also jumpscared by said entities simultaneously.
+Dupe can spawn in dark rooms, however, unless the room has locked doors, approaching a fake door will not open it and will cause the number being scrambled. This effectively makes Dupe completely harmless in dark rooms.[verification needed]
+Sometimes the number plate may not be scrambled, but Dupe's rumbling will be louder.
+Dupe can spawn with its fake door label already scrambled with the real one having a normal number.
+Dupe cannot spawn in any room with only 1 door (The Library, The Grand Hallway, The Electrical Room).
+When a Moonlight Candle is held near one of Dupe's doors, the candle will not go out, unlike what is shown in the Hotel+ game icon.
+It is possible for two fake doors to share the same number, which is a dead giveaway that neither are correct.
+If the number of doors in a room is odd, the player can always find the correct door by arranging all plaque numbers in increasing or decreasing value. The correct door's value will always be the median.
+As of The Mines update, Dupe's doors can now be offset by 3.
+As of the Content Update, Dupe's doors can now be offset by 4.
+The offset of Dupe doors in The Mines can be way more significant, exceeding that of the Hotel.
+Dupe usually appears in later rooms, making siderooms get rarer to find.
+Dupe can spawn as early as Door 2, but it usually spawns after Door 10. When certain modifiers are active, it can spawn as early as Door 1.
+Sometimes, when opening the real door, Dupe's door number can disappear.
+This is because another Dupe spawned in the next room. To prevent players somehow used the Dupe door number in the previous room to figure out the real door in the current room, the fake door number in the previous room will disappear.
+After The Mines Update, the fake door number will be scrambled instead of disappearing if that situation happens.
+In The Mines, Dupe can spawn in The Railway Station.
+In The Mines, Dupe can spawn in The Shafts (Meat Cave only), where there is a small chance that Figure can enter its room.[1]
+If a player comes too close to a locked Dupe door, as if attempting to open a lockless door, Dupe will attack them anyways.
+
+Advertisement
+Modifiers
+If "Wrong Number" is activated, Dupe will spawn more and increase in difficulty.
+If "Battle Of Wits" is activated, Dupe will spawn in most rooms, blur out door numbers instantly after players open new doors, and Dupe doors will not emit a rumbling sound.
+If "Locked and Loaded" or "Key Key Key Key" are activated, the Room Keys will be unable spawn in front of Dupe's doors. If a key spawns in front of a door, that door is always real.
+SUPER HARD MODE!!!
+Dupe doesn't appear in SUPER HARD MODE!!!; it is replaced by Subspace Tripmine, an entity that behaves similarly to Dupe. However, it deals 190 damage and also damages nearby players, rather than only damaging players that open a fake door.
+Jumpscares
+1st person Jumpscare
+Dupe puts its hands on the floor and doorframe and opens its mouth while seemingly biting the player and tossing them onto the floor. If the player is at or below 40 health, the same thing happens but the player does not fall and the screen flashes red.
+
+1st person Old
+Dupe bites the player, tossing them onto the floor or bites the player and flashes the screen red if the player is at or below 40 health.
+
+3rd person Jumpscare
+Dupe grabs the player, bites them and tosses them onto the floor. If the player is at or below 40 health, it grabs them and drags them into the hole.
+
+3rd person Old
+The player floats in a red mist squirming then gets thrown on the floor, ragdolled.
+
+Door Voiceline
+Modifiers Modifiers
+Wrong Number
+"Dupe will spawn more and increase in difficulty."
+Cannot be used with: 'Battle Of Wits'
+Floors: The Hotel, The Mines, The Backdoor (With Admin Panel), The Rooms (With Admin Panel), The Outdoors (With Admin Panel)
+Knobs +5%
+Battle Of Wits
+"Dupe will almost always spawn and is set to maximum difficulty."
+Requires 'Outwitted'
+Cannot be used with: 'Wrong Number'
+Floors: The Hotel, The Mines, The Backdoor (With Admin Panel), The Rooms (With Admin Panel), The Outdoors (With Admin Panel)
+Knobs +15%
+
+Advertisement
+Bugs Bugs
+The player can walk up to the wall by the door, crouch and tilt their head, which will cause the camera to no-clip through the wall and allow the player to confirm that the door leads to the next room. This is one method that allows the player to detect Dupe without knowing the number of the current room especially at higher difficulties.
+If Rush enters The Meeting Room, a small basement or The Basement and opens the next door which turns out to be with Dupe room, and the player(s) have not completed the puzzle, the door number can be encrypted without the player knowing, especially after The Library.
+Occasionally, when being attacked by Dupe, the animation can freeze in place, whereas the audio of the jumpscare will continue to play.
+When entering a non-dark room, the plaque on a Dupe door may already be scrambled; this is most likely a bug.
+In certain rooms, when a Dupe door is next to a normal door, a black box (the box used to simulate darkness within the Dupe door) may appear in the next room[2]
+A player can trigger the jumpscare event when the black box appears if they position themselves into a certain area of the black box behind Dupe. This will teleport the player to the front of Dupe's door once Dupe's attack is complete.
+If a player times entering a Dupe door right as Rush arrives in the room, Rush will not kill the player.[3]
+This is due to invincibility frames during Dupe's attack; however, it is not a good idea to try to perform this bug.
+If a player uses a Crucifix on Dupe in Greenhouse, Dupe's arms can be seen facing straight up, behind the door.
+The light blue glow that appears when using the Crucifix will be visible behind the door, and Dupe's arms.
+If a player attempts to open a Dupe Door while another Dupe is being banished with a Crucifix, Dupe won't attack the player, instead, the door opens like normal, revealing its unanimated hands.
+Dupe is not determined by the seed, instead being RNG
+This has been fixed by NormallyAve but the changes have not taken place yet.
+As of The Great Outdoors Update, Dupe's lower mouth appears wider than usual.
+Trivia Trivia
+Dupe was teased in the corner of LSPLASH's official Twitter profile picture. It can be seen by opening the profile picture as a file.
+Dupe may be named after the fact that it tricks players into opening the door they are in or duping them. It could also be because of the fact that 'Dupe' is short for 'Duplicate'. However, another definition for Dupe is to deceive or trick.
+Dupe was one of the six entities to be seen in the game icon, with the others being Seek, The Lookman, DRAKOBLOXXERS, the Gloombats, Glitch, and currently Rush.
+Dupe was previously present on the Hotel+ Update icon (since January 28, 2023), before being replaced by the April Fools icon for a week (April 1, 2023).
+There are 2 images for scrambled numbers, the scrambled door sign is "98615380259453" and the scrambled key is "90799266657817".
+In the "2023 April Fools" Update, Dupe was replaced by "Subspace Tripmine," a reference to the Roblox gear of the same name, infamous among the Roblox community for its loud explosion and sheer power.
+When a crucifix is used on Dupe, it halts its attack and closes the door. After this a blue light can be seen from the seams of the door. After the sequence is complete, the door opens, revealing a small opening with a red hole in the ceiling.
+Dupe is one of the two entities the players cannot see being crucified, with the other one being Louie.
+This is also the only entity that has a "special" crucifix animation; instead of the crucifix levitating out of the player's hand, the player will instead toss the crucifix into the room with Dupe before the door is closed.
+This is most likely done to prevent the player from seeing Dupe's entire body.
+However, if the crucifix is used in The Greenhouse (in which all the doors are not blocking the vision behind it), the player is able to see Dupe's arms floating in a bright blue void box, indicating Dupe is most likely trying to escape the room, or is holding on to the door to prevent being banished from the crucifix. This is likely how Dupe is seen without animations.[4]
+After crucifying Dupe, players can enter the room revealing a fleshy, pulsating space with a long, winding tube in the ceiling. Dupe's room is a box room covered in some kind of moving black matter, similar to Seek's slime. Many think this room is the entity itself, meaning the tube could be its esophagus and the rest of its body is hidden behind layers of flesh.
+This would also hint at the entity being an entire species.
+Prior to the Mines update, the number plate will fall from all fake doors in the previous rooms after the crucifix use.
+Dupe's face may be inspired by one of the faces of original A-60 taken from the album Ten Thousand Fists by Disturbed. It may also be inspired by the face of the Intruder from Roblox game The Intruder.
+The soft rumble players can hear when standing near Dupe originates from this audio.
+Dupе's rumbling is possibly inspired by the breathing of nightmare animatronics from Five Nights at Freddy's 4 or other games where players must check for breathing to determine the location of the antagonist.
+Dupe’s jumpscare audio may be an edited version of Huggy Wuggy’s jumpscare from Poppy Playtime. (Video)
+Dupe's jumpscare audio is named Audio/imacreepimaweirdo. Its name is a reference to Radiohead's song Creep.
+Dupe's hands made a complete appearance in Floor 2 update, before they were seen only on its "Wrong Room" achievement, as well as its appearance in Tower Heroes event, and game thumbnails.
+After the crucifixion, arms remain lying on the floor in the room.
+In the Doors x Tower Heroes event, Dupe uses its hands to move.
+Ghostly Wowzers has a special disliking towards Dupe, finding it annoying.[5]
+The Wrong Room badge has the door labeled 0013. This is likely because 13 is an unlucky number in western superstition.
+If Gloombats are able to drive Figure into a Dupe door, Figure can enter the Dupe room.
+Figure will also sometimes run around in its room before exiting.

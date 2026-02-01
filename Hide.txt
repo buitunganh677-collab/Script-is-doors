@@ -1,0 +1,141 @@
+Hide
+173
+View source
+Not to be confused with hiding, the mechanic.
+
+Hide
+Physical Form
+Hidden Form
+Physical Form
+INFORMATION
+Type
+Neutral (Lethal)
+Behavior
+Penalizes players for hiding too long and prevents them from hiding again for a short time.
+Appears in the last used hiding spot and penalizes the player when trying to hide in it again. (The Mines)
+Triggers the Heartbeat Control Minigame if near Figure, which will force out the player if they lose, alerting Figure.
+Floors
+Canon Floors
+The Hotel
+The Mines
+Floor 3 (Certain)
+Visions
+
+Cringle's Workshop
+Daily Runs
+Damage
+Damage 40
+ADDITIONAL INFORMATION
+Date Added
+August 10, 2022
+Creator(s)
+Lightning_Splash
+SOUND FILES
+
+
+Speech
+"You died to Hide... Minimize the time you spend hiding."
+- Guiding Light
+
+Hide is a miscellaneous neutral entity that resides in hiding spots that can be found in The Hotel and The Mines. Its main purpose is to kick out players who hide in a hiding spot for too long in order to encourage progression.
+
+
+Contents
+1	Appearance
+2	Behavior
+2.1	Notes
+2.2	SUPER HARD MODE!!!
+2.3	RETRO MODE
+2.4	HOTEL-
+2.5	Modifiers Notes
+3	Related modifiers
+4	Bugs
+5	Trivia
+6	Related achievements
+7	History
+8	Gallery
+9	References
+00:00
+
+41:20
+
+
+
+
+
+Overview Appearance
+The Hotel
+The Mines
+It was unknown what Hide physically looked like until The Mines Update. It was originally interpreted as two white glowing eyes within hiding spots.
+
+Behavior Behavior
+When a player remains in a hiding spot for too long, about 12 seconds, their screen will suffer from a pulsating red, bloody glow, accompanied by loud ringing. The words "Get Out" will begin flashing on the screen, and sounds outside the closet will become "muffled.". This chaotic visual is accompanied by a much more rapid and intensifying heartbeat and static sound effect. If a player remains in their hiding spot, Hide will push a player from their hiding spot, dealing 40 damage, and leaving them vulnerable to hostile entities such as Rush and Ambush.
+
+Once pushed out, the player cannot hide in any other hiding spots for about 10 seconds. Attempting to enter a hiding spot within this time frame will leave the player with the message "Something is stopping you from hiding...". The red visual effects will remain for a moment after being pushed out.
+
+If the Figure is checking the closet the player is in, a heartbeat minigame will be activated. A heart design will appear at the bottom of the screen, with blue left and red right halves of its design approaching from its sides. The player must either tap the corresponding side of the screen (on mobile) or press Q and E (on keyboard) at the same time the half overlaps the heart. If timed improperly, the half will flash red, and if done twice, Hide will kick them out with the usual effects. Upon completing the minigame, Hide would kick the player out, but without damaging them or preventing them from hiding. The heartbeats occur in a series of two beats, then a pause, becoming faster as the minigame continues. The player can leave at any time, but if the Figure hasn't left when they leave or are kicked out, it will kill them. It should be noted that Hide currently does not attack in The Electrical Room.
+
+In The Mines, Hide will also appear in the last spot that the player hid in, preventing them from hiding in that specific spot until they hide somewhere else, after which it will appear at that spot instead. Attempting to enter a hiding spot occupied by Hide will cause the player to suffer the usual effects of being kicked out, unless the player is holding a Crucifix, in which case Hide will be crucified as the player enters the locker.
+
+Notes
+Hide becomes more aggressive as the players progress through the floor and will begin pushing players out much more quickly. This change is more noticeable and more likely to be lethal after Door 50 and Door 150.
+Hide doesn't exist at all in The Rooms, The Backdoor, and The Outdoors.
+Prior to The Content update In Door 50, Hide will begin to push people out of closets once the library exit door is open. This no longer happens because Hide was added to The Library.
+In Door 100, Hide will push players out of closets if Door 100's lever has not been pulled. Once the lever is activated, Hide will no longer be in any closet.
+Before The Hotel+ Update, Hide would also be absent on Door 99. This mechanic has been removed because The Electrical Room was redesigned.
+In Super Hard Mode, if Figure was killed by a Holy Hand Grenade before the exit door was opened, Hide would no longer be active for the rest of the run.
+During the 2024 April Fools Event, Hide is disabled.
+Hide will "combo" with entities such as Rush, Ambush, Blitz (with the "Blitz Oh" modifier), A-60 and A-120 (with the "Room For More" modifier).
+If Rush or Ambush kills the player after Hide pushes them out, Guiding Light will mention that Hide pushed the player out, which caused their death.
+Guiding Light will provide a special death message about the combo between the two entities.
+This also appears for Jack when it prevents the player from getting into a closet.
+Hide does not appear in The Adit after getting out of the locker (until the first door is opened), but it will still kick players out if they hide too long.
+In certain situations the room the player is in, the hiding time will vary.
+In all Figure rooms (except The Electrical Room), Hide will instantly start to attack as soon as the player is in the hiding spot.
+When Ambush is active, Hide will take a bit more time to start attacking of the current hiding time.
+However, if the modifier "Rent's Due" is active, this is ignored.
+
+Advertisement
+SUPER HARD MODE!!!
+Hide appears significantly quicker throughout the entire game. It can also disappear completely using a Holy Hand Grenade against Figure in The Library.
+RETRO MODE
+Hide doesn't appear in Retro Mode.
+HOTEL-
+After Hide kicks the player out, the kicked animation is slightly slower.
+Modifiers Notes
+If the "Rent's Due" modifier is enabled, Hide will push the player out significantly faster than usual, generally within 5-6 seconds. Hide behaves the same way in Super Hard Mode.
+If the "New Roommate" modifier is enabled, Hide will be able to reside in closets in the Hotel, being a 1:1 recreation of it's mechanic in The Mines.
+Before its removal in The Halloween Spotlight Event, the "No Hiding for You" Candy would spawn Hide on the player's screen, dealing its regular damage and preventing them from hiding for a bit like usual.
+Modifiers Related modifiers
+Rent's Due
+"Hide will attack as fast as possible."
+Floors: The Hotel, The Mines, The Backdoor (With Admin Panel), The Rooms (With Admin Panel), The Outdoors (With Admin Panel)
+Knobs +15%
+New Roommate
+"Hide will reside in the last hiding spot you entered."
+Requires 'See You Soon'
+Floors: The Hotel
+Knobs +5%
+Bugs Bugs
+Occasionally, Hide's "Get Out" frame may become stuck on the player's screen while they are in the hiding space.
+After The Mines Update, if the player uses the Rent's Due modifier, its previous mechanic of making Hide appear as fast as possible has been accidentally removed. This will allow players to essentially get a free 15% knob bonus when doing runs in The Hotel.
+This has been fixed in The Content Update.
+Hide's physical appearance does not appear in hiding spots that aren't in The Mines, however, the red particles outside and its sound can still be seen and heard.Hide blending in to the loot lockers
+Trivia Trivia
+Hide had no canonical appearance before The Mines Update, with only one hint of its appearance—the white eye what we can see in the badge for getting kicked out by it from a closet.
+Ghostly_Wowzers had stated that Hide's full appearance is "...up to the players imagination."[1]
+Originally, the infamous DOORS exploiter named Lolcat leaked The Mines' Hide appearance back in March on a community post.
+Hide may have been inspired by the conceptual locker monster that was planned to be added to Rooms, the game that was a major inspiration for DOORS. Just like Hide, the locker monster would punish players who take too long in their lockers.[2]
+If this is the case, then Hide happens to ironically not be present in The Rooms, which could also be referencing the fact that Rooms' locker monster ended up being unimplemented.
+Hide could be based on the idea of closet monsters and monsters under the bed, who are often depicted as having glowing eye(s) in the dark, similarly to the white eyes seen in its badge.
+Hide canonically does not have its "Eviction Notice" sign in the DOORS game, however, it does appear in the achievement image: "Eviction Notice" and in Hide's character appearance in Tower Heroes with two white eyes.
+Hide can also be unlocked as a follower in Tower Heroes using this design.
+Crucifying Hide will disable it for 1 minute, including all of its forms (hidden form, physical form and Heartbeat Control Minigame form).
+Hide has a 1/100 chance to spawn in the First Tower Heroes Collab, replacing Jack.
+A Youtuber by the name of CaptainJackAttack messaged RediblesQW a question of Seek's origin, and he confirmed that Hide is the one who prevents any hiding spots from appearing/working during Seek's chase.
+This could potentially mean Hide controls where hiding spots appear.
+Figure might also be connected to Hide because it only triggers the heartbeat minigame when it is near the wardrobe or locker where the player is hiding.
+Prior to The Mines Update, Hide's heartbeat minigame was originally a feature used directly by Figure. Figure would only leave if the minigame was successfully completed, and if the minigame was failed, Figure would immediately drag the player out of the closet and kill them. To compensate, the difficulty that Hide uses is only used during the chase sequence at the beginning of The Electrical Room, while other instances concluded after a few sets of heartbeats.
+When The Mines Update was released, Hide’s heartbeat minigame was activated if the player hid too long at any time rather than immediately kicking them out, with the same effects. If a player left during the minigame and hid again later, the minigame would start again immediately. Due to fan backlash, the heartbeat minigame was entirely removed about one and a half days later, although LSPLASH stated the developers are looking into reimplementing it more intuitively,[3] as they eventually did in the Content Update.
+If a player is kicked out by Hide during Dread's chase sequence, their screen will invert colors, due to Hide and Dread's color effects (which decrease the saturation.) compounding, and reducing the saturation to a saturation which is less than the grayscale saturation.[4]
+According to Glitch, Hide is characterized as territorial and attacks once it feels threatened by the player's presence.

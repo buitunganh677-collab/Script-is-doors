@@ -1,0 +1,467 @@
+Seek
+915
+View source
+SpoilerIcon
+This page contains spoilers. They are hidden by default, but may be expanded.
+StubIconNew
+"Oye... who do you think built this place? Seek, I mean. "
+- El Goblino (altered)
+Seek is currently a stub. Help the wiki by expanding it!
+Content needed: Detailed information about hazards. The Dam Section. Humanoid seek description in Forms. A LOT of Trivia and Notes are mixed together. Many of them are irrelevant. For example: "Shadow can spawn in the Seek chase" (this is not unexpected).
+
+Seek
+Seek2
+INFORMATION
+Type
+Hostile (Lethal)
+Behavior
+Chases players through obstacles and uses different forms to kill the player.
+Floors
+Canon Floors
+Lobby (Eyes and Goop only)
+The Hotel
+The Mines
+Floor 3 (Extremely likely)
+Visions
+
+Cringle's Workshop (Eyes only)
+Damage
+Instakill Instant Death
+Spawn Rate
+Guaranteed
+ADDITIONAL INFORMATION
+Date Added
+August 10, 2022
+Creator(s)
+RediblesQW
+Stryfal (Seek Dam Sludge)
+SOUND FILES
+Speech
+"But you can't um... uhm... uhh.... "
+- "You Can Run" Achievement description
+Seek is one of the main hostile entities in DOORS, serving as the secondary antagonist of The Hotel and the main antagonist of The Mines. Seek appears in three chase sequences (The Grand Hallway in The Hotel, along with The Caverns and The Sewage Pipes in The Mines), a boss fight in The Dam, and during the ending cutscene in The Woods.
+
+
+Contents
+1	Appearance
+1.1	Scrapped version
+2	Behavior
+2.1	The Hotel
+2.1.1	The Grand Hallway
+2.2	The Mines
+2.2.1	The Caverns
+2.2.2	The Sewage Pipes
+2.2.3	The Dam
+2.2.3.1	Phase 1
+2.2.3.2	Phase 2
+2.2.3.3	Phase 3
+2.2.4	The Woods
+2.3	Notes
+2.3.1	General
+2.4	Modifiers Notes
+3	Forms
+4	Related hazards
+5	Abilities
+5.1	SUPER HARD MODE!!!
+5.2	RETRO MODE
+5.3	HOTEL-
+6	Trivia
+6.1	Removed content
+7	Bugs
+7.1	Patched
+8	Jumpscares
+8.1	1st Person Jumpscare
+8.2	1st Person Jumpscare (Hands, Hotel)
+8.3	3rd Person Jumpscare
+9	Related achievements
+10	History
+11	Gallery
+12	References
+logo
+00:02
+
+41:20
+
+
+
+
+Overview Appearance
+Seek is an entity consisting of an amorphous, black, slime-like substance with multiple eyes. It has no fixed shape[1][2], but can change forms at will. Its body and eye(s) emit a red light. For mobile players, Seek appears as a slimy humanoid figure, while console or PC players may see it with a red outline from certain angles. On low graphics settings, Seek is entirely black and does not emit any red or white light.
+
+During chase sequences, Seek starts as a small puddle and transforms into a featureless humanoid figure with a single eye. It also takes the appearance of long arms trying to grab the player in the final room.
+
+In The Dam, a much larger amount of Seek forms a massive pool of goo, filling the reservoir at the center of the room. On its surface, a large mound of goo covered in eyes appears, along with debris and smaller, eyeless mounds. During the battle, arms, "Seek worms" (worm-like creatures made from Seek goo), and "Seek sludges" (A mound of seek with 3 eyes and scissor like arms), will form from the pool to attack.
+
+Negative Scrapped version
+Seek had a more bent down and mangled form, seeming way more twisted and broken than the current one, the eye was 2D and would keep flashing red and it was slightly taller than the current Seek. It also used the Undead Zombie Mesh.
+
+Behavior Behavior
+During its chases, players can use a Crucifix on Seek. However, the crucifix does not banish Seek; instead, it temporarily stuns it, slowing its movement for a few seconds. Once the stun wears off, Seek resumes its pursuit, killing any players who touch it or are caught behind it when entering a new room in the chase. The Crucifix can also be used on Seek inside The Dam, using it all Seek's forms will disappear and cannot appear again until the stun ends.
+
+The Hotel
+"Seek's crescendo" refers to the buildup that occurs before all Seek encounters. After March 15, 2024, this phase may also trigger the appearance of Rush, Ambush, or Halt. The crescendo lasts for 2-5 rooms before initiating a Seek chase.
+
+When entering a room affected by Seek's crescendo, the lights will flicker (unless the room is dark) in a shorter version of Rush’s flicker. If Rush spawns during the crescendo, its flicker lasts longer. Seek eyes will appear on the walls, increasing in number as players advance toward the chase. Any paintings in the room will change to "This isn't a painting." In the final room of the crescendo, the lights will flicker for an extended period, similar to Halt’s flicker. When players reach The Grand Hallway, no eyes will appear on the walls.
+
+The Grand Hallway
+When a player reaches the end of The Grand Hallway, a cutscene will play. During this sequence, Seek transforms from a puddle of black goop into a humanoid form, prompting the chase. At this point, all players will be teleported to the exit of The Grand Hallway.  This allows for players to be seen by other players in the cutscene as they are not teleported until the end of the cutscene. Therefore, if a player is near the location of Seek's spawn during the cutscene, they will be in the cutscene. However, this does not affect gameplay as seek will not be able to collide with them or kill them at this point and they are teleported at the end of the cutscene. The initial chase covers a distance of 6 rooms, taking place within rooms 29-44. It consists of the following sequence: a Grand Hallway variant with two crawlspaces, an octagonal "maze" room with three potential exits (only one of which is functional), a room containing a small crawlspace, a second maze room, and a final Grand Hallway variant.
+
+During the chase, Guiding Light helps the player by illuminating the correct path during mazes and the correct location to crouch. At the last room of the chase, Seek's arms will burst out from the walls, while chandeliers that are fallen starts burning on the floor in the middle. Making contact with the hands will cause an instant death while failure to avoid the fires deals 40 damage to the player.
+
+At the end of the chase, Guiding Light shuts the door, putting its crescent symbol on it while Seek fails to break it open by banging on the door, with the chase coming to an end.
+
+
+Advertisement
+The Mines
+In The Mines, Seek' crescendo is significantly reduced, only occasionally spawning a small cluster of eyes in a room prior to boss fights. The chases occur over predetermined doors before the boss fights. Guiding Light takes the form of a trail of blue particles, highlighting the correct paths and doors.
+
+The Caverns
+The first chase, which takes place in The Caverns, always begins at Door 142 and ends at Door 149. It starts in a room containing a long, flooded ravine with a pipe overhead that appears ready to leak Seek goop. Upon reaching the end, a cutscene plays in which Seek's goop leaks from the pipe into the flooded cavern. The goop then transforms into its humanoid form and begins chasing the players.
+
+The first half of the chase (Rooms 142–146) consists of rooms with broken bridges that players must jump over. Failure to jump or falling into the pit results in instant death. At Room 146, a cutscene plays where the player attempts to jump, grabs onto a wooden plank, and falls when it breaks. The player is saved by a minecart spawned by Guiding Light.
+
+The second half (Rooms 146–149) occurs in a mineshaft. Players ride a constantly moving minecart and must switch between tracks and duck to avoid planks. Colliding with planks deals damage and blurs vision. Tracks may split into two or three paths; if players do not steer onto the correct one, the minecart will follow an incorrect path, leading to a crash or a pitfall—resulting in instant death. Guiding Light provides illumination and directional arrows to indicate the correct track.
+
+At the end, the minecart brakes and stops. Guiding Light shuts the doors, concluding the Seek chase. However, the minecart then continues moving, and the player encounters the Queen Grumble.
+
+The Sewage Pipes
+The second chase takes place in The Sewage Pipes, a location inside The Sewers, and begins between Doors 170 and 184. After the players pass through a long room, the Queen Grumble emerges from a hole in the ceiling behind them and roars, only for Seek to burst through a wall, blocking the Queen Grumble behind rubble and initiating the chase. Alarms begin blaring for the remainder of the sequence.
+
+During this chase, the players are pursued by both Seek and Queen Grumble. The chase is divided into two parts:
+
+The first half includes three rooms in which players must choose the correct path, aided by Guiding Light.
+
+The second half consists of a single room filled with a series of pipes that players must navigate, following Guiding Light's marked path and kicking open Grate Doors.
+
+At the end, Guiding Light shuts the door, concluding the chase.
+
+The Dam
+The Dam is the final room of The Mines. It appears to be a giant reservoir for sewer water. It has multiple stairwells and ladders going down, storage lockers and work lights scattered throughout, and exposed fluid pipes with valves that must be turned to progress the fight. At the top floor is a large metal door, which is opened using The Dam's Generator; behind it is a ladder that leads up to a manhole in The Woods.
+
+The Dam is seemingly empty upon arrival. Quickly after, Seek's goop floods the room, leaving only the uppermost level untouched. Seek emerges from the flood as a giant lump with several eyes alongside debris and smaller, eyeless lumps. As the fight progresses, Seek gains new attacks, and the goop is drained down one level at a time until The Dam is empty again.
+
+In the boss fight, there are a total of 11 valves players must rotate to lower the black goo. The valves are scattered throughout The Dam and requires the players to jump through platforms to reach them. Falling into the goo deals 5 damage per tick. Seek variations also appear to try to hinder your progress.
+
+
+Advertisement
+Phase 1
+In this phase, players must turn 2 valves while dodging the Seek Hands, which try to knock you off the platform. A red glow is visible at where the hands will strike. Getting hit by the hands deals 20 damage and knocks the players.
+
+Phase 2
+In this phase, players must turn 4 valves. In addition to the hands, Seek Sludge can also appear. It follows the players slowly and attempts to drag the players down if it reaches the player, killing them immediately.
+
+Phase 3
+In this phase, players must turn 5 valves. In addition to the hands and the sludge, Seek Worm can also attack. A red glow is visible at where the worm will appear and land. Being in Seek Worm's path while it leaps kills the players immediately.
+
+Once all valves have been twisted, the black goo will all be drained out, revealing the generator. Turning it on it will power the metal door on the top floor of The Dam, revealing a manhole to the Woods.
+
+The Woods
+Cannot
+This content has spoilers for the end of The Mines. To view it, click the button below.
+
+View Spoiler
+Notes
+General
+Due to the speed boost players are given during Seek chases, Seek will always run slower than players.
+Reduced speed caused by lag will not be taken into effect.
+You can press S before the chases start so you move forward. Pressing W will move you back.
+All other players will be rendered invisible from a player's screen during Seek chases.
+If a player is holding an item, the item will still be visible and will appear to be floating.
+Seek does not actually "chase" players. Instead, it runs towards the next progressive door, and players behind its concurrent room are instantly killed. Seek doesn't follow players but rather follow nodes which are some sort of pathways leading to the end of the chase.
+Seek will run until it reaches the end of the chase, even if all players have died.
+Seek screams when it is in the first and last rooms of The Hotel chases.
+Seek does not scream in the last room of the first chase in The Mines.
+If players die during a Seek chase, they will not be able to revive until the chase concludes, preventing players from instantly dying.
+Seek speeds up drastically when all players are dead, making players able to revive faster.
+Seek's arms will go back into the windows and chandeliers will disappear after the chase.
+If a modifier that decreases movement speed is active, Seek's movement speed will be reduced in order to make it possible to survive Seek.
+After The Hunt update, the lights do flicker when Seek's Crescendo happens, but entities can spawn. This means that it is now possible for Rush to spawn during Seek's Crescendo and the light flickering of both can combine which can trick players.
+Between The Backdoor and The Mines updates, the second Seek chase used an eight-room format similar to the first chase, but with two maze rooms added before the corrupted Grand Hallway.
+Players couldn't hide from Seek during its chase as the closets would kick players out during the chase. As of right now, it will not kick the player out of the closet but Seek will kill them while hiding instead.
+Seek has a very small chance of not spawning in the Hotel. It is guaranteed to spawn in The Mines.
+This is likely a bug.
+Prior to The Mines update, Seek's octagon room was exclusive to the chase. After said update, it can generate as a normal room outside the chase; Dupe is usually present.
+Seek's final crescendo room may have a chance to be a dark room.
+As of The Mines Update, Rush does not stop at the next unopened door but instead goes through to the next, making it and the following one or two rooms dark. Therefore, if Rush spawns late enough during Seek's crescendo, it is possible that Seek's hallway or even the rooms in the chase will be dark rooms.
+This also means that it is possible (given the right circumstances) for Screech to spawn during Seek's chase.
+Jack can spawn during the Seek Chase in The Mines.
+In The Caverns, it is possible to only get the 2 way intersections, therefore not going into a similar area where the Queen Grumble cutscene takes place.
+If the player is next to the minecart section of the second Seek chase and have a crucifix, it will kill Seek after it goes through the ground to the minecart section.
+If the player gets far enough ahead of seek in the mines, if the room immediately after the chase ends is flooded, the water will be textured to seek until seek reaches the door.
+Seek's hands can kill a player with God Mode.
+For mobile players, Seek's Eyes wont spawn in Seek’s crescendo. This may be a bug.
+
+Advertisement
+Modifiers Notes
+If the "Power Shortage" or "Lights Out" modifier is enabled, rooms during Seek's Chase will be made significantly darker, including any blue aura emitted by Guiding Light anywhere during the chase.
+If the "Gone Fishing" modifier is enabled, Guiding Light is removed for the doors when approaching an intersection room but will still highlight crawl spaces.
+If the 'I'm Everywhere' modifier is enabled, Screech can attack during Seek chases.
+If the "Always Watching", "Seeing Double" or "Four Eyes" modifiers are enabled, Eyes will spawn in every room during the Seek chase.
+If the "Bad Ventilation" modifier is enabled, Seek's chase will be harder when trying to find the right door to enter, since Guiding Light is almost unseeable with the fog unless the player is good at finding Guiding Light's hints.
+Puzzles Forms
+Dam Seek
+Seek Hands
+Seek Worm
+Seek Sludge
+Seek Eyes
+The subject and name of this article has no proper denomination, and is unofficially titled based on conjecture or references found in-game.
+
+Dam Seek
+NewDamRender
+INFORMATION
+Behavior
+Summons Seek Hands, Seek Sludges and Seek Worms to attack the player.
+Floors
+The Mines
+Damage
+Dam Seek:
+Damage 0
+Goop:
+
+Damage 5 per tick
+Instakill Instant Death (consumption)
+SOUND FILES
+Dam Seek, is a far larger form of Seek, and it appears as the main boss in The Dam.
+
+Overview Appearance
+This version of Seek is a massive pool of goop created by several massive sewer pipes spraying the substance into the hole in the center of the room. Floating on the surface of this goop is some debris, a massive lump of goop with eyes all over it, and slightly smaller, eyeless lumps.
+
+Behavior Behavior
+This version of Seek is stationary, with multiple other forms appearing from it to attack. If a player touches the goop, they take damage over time (5 damage per tick), and if they stay in the goop for too long, they will be consumed by it, resulting in instant death. Oddly enough, players can stand on Dam Seek itself without taking any damage. It is most likely an unintentional bug.
+
+Instakill Battle
+To defeat Dam Seek, players must turn valves highlighted and positioned by Guiding Light. There are three phases to this battle, and each set of valves drained reduces the Seek goop in the dam. Players must jump across debris on the surface of the Seek goop while avoiding attacks from Dam Seek. Falling into the goop results in 5-10 damage per tick, and a debuff slows movement speed.
+
+In Phase 1, Dam Seek extends hands which slap and launch players for 20 damage.
+
+Phase 2 adds a "sludge" version of Seek that slowly follows players across the Seek goop flood.
+
+Phase 3 introduces large "worms" that constantly attack players, causing instant death upon impact.
+
+Completing all valve turns triggers a cutscene where Dam Seek is fully drained. After the cutscene, players must activate a generator and ascend to the top of The Dam through a bulkhead to escape The Mines.
+
+Trivia Trivia
+Dam Seek can be a reference to the very first icon of the game when it was released.
+Dam Seek is possibly inspired by Sludge from The First Tower Heroes Collab Event due to how similar they look.
+although it could be likely just a coincidence.
+Dam Seek's actual name is "True Seek" according to the game files.
+Which also confirms that it is Seek's true form.
+Gallery Gallery
+In-game
+In-game
+Another In-game Screenshot
+Another In-game Screenshot
+Part of Dam Seek left behind after being drained
+Part of Dam Seek left behind after being drained
+Dam Seek's model name in the game files.
+Dam Seek's model name in the game files.
+A crucifix being used on Dam Seek.
+A crucifix being used on Dam Seek.
+The crucifix failing to banish Dam Seek.
+The crucifix failing to banish Dam Seek.
+Ditto but at a different angle.
+Ditto but at a different angle.
+Ditto but animated.
+Ditto but animated.
+
+Advertisement
+Damage Related hazards
+Fallen Chandeliers
+Duck Boards
+Falling Boulders
+Dead Ends (Spike Pits)
+Dead Ends (Rocks)
+Broken Bridges
+The subject and name of this article has no proper denomination, and is unofficially titled based on conjecture or references found in-game.
+
+Fallen Chandeliers
+Fallen Chandelier
+INFORMATION
+Main Info
+Burns players who come in contact with them, dealing 40 damage to them.
+Floors
+The Hotel
+Damage
+Damage 40
+Rooms Present
+The Grand Hallway
+ADDITIONAL INFORMATION
+Date Added
+August 10th, 2022
+SOUND FILES
+Fallen Chandeliers are the only hazard present within The Hotel.
+Overview Appearance
+Fallen Chandeliers appear as Chandeliers, but have fallen from the ceiling and combusted into flames.
+
+Behavior Behavior
+Fallen Chandeliers spawn in only both of The Hotel Seek Chases' last rooms. When players encounter the last room in either Seek Chase, three Chandeliers from the ceiling will fall down onto the floor, causing them to shatter and create three fires that the players have to avoid. Failure to avoid them will result in 40 damage dealt to the player.
+
+Trivia Trivia
+The fire animation used for the Fallen Chandeliers is the same one used for The Electrical Room after inputting all the Breaker Poles into the Circuit Breaker Panel.
+The fire that the Fallen Chandeliers cause; do start despawning around right when Seek would get blocked off by Guiding Light.
+Interestingly, it can be seen in the game, that Seek is able to run through the fires without any injuries.
+
+
+History History
+August 10, 2022
+Introduced.
+Hiding Abilities
+Speed: Seek is shown to be extremely fast and adjusts its speed to not easily catch the players due to Seek wanting to play with them like a "game of cat and mouse".
+Shapeshifting: Seek can shape its mass of black goop into anything it desires and thinks that fits, with a few imperfections (gooey texture, multiple eyes and always being pitch-black).
+
+Advertisement
+SUPER HARD MODE!!!
+Seek drives a classic green ROBLOX jeep. Despite no visible model changes being present, the animation was changed to being stiff, resembling a Robloxian driving a car.
+Seek had a smaller hitbox, presumably for leniency if the player was too slow or took the wrong turn.
+Seek also had a higher speed than in the normal game.
+Both of its chase sequences were slightly longer.
+Guiding Light would not highlight the doors when approaching an intersection room but would still highlight crawl spaces.
+Its screams were replaced with the car's horn, and its muffled screams when killing a player were replaced with a louder car horn.
+RETRO MODE
+Seek appears as a morph character in Door 0.
+Seek also appears as speeding wall in Door 12, it will go back and forth, and deal 95 damage when touched.
+HOTEL-
+Seek is slightly slower.
+Seek's hitbox is slightly smaller.
+Seek's chases cause a desaturation effect.
+Trivia Trivia
+The official soundtrack used for Seek's chase sequence is Here I Come. Seek's second OST is named Ready or Not.
+The name of the track is most likely a reference to the children's game Hide-and-Seek, where once the seeker has finished counting, they usually shout, "Ready or not, here I come!"
+During the Dam Seek fight, its hands will play a short riser with Seek's leitmotif (a leitmotif is a short musical phrase that is associated with a person/place/thing) before they land their attack. This can only be heard if the player has game music turned off, as the sound is intended to blend with the music.
+The official soundtrack During the Dam Seek bossfight is Oh Dam.
+Seek is one of the six entities that have been featured in the game’s icon. With the others being Dupe, The Lookman, the Gloombats, Glitch, Rush and The Groundskeeper. Seek is featured with multiple red eyes and arms that are coming out of a dark doorway. It was thought that it was a separate entity, but it was confirmed by the developers as Seek itself.
+Dam Seek could be a reference to the Seek's form that shown in the original thumbnail.
+Seek is the second DOORS plush manufactured by Makeship, which was released on May 11.[3]
+Seek is also the first DOORS entity to have a Youtooz, which is based off of its crucifix achievement image.[4]
+Seek is also the first entity to have both Makeship and YouTooz merchandise.
+The Seek plush can be found sitting next to the Screech plush in the lobby, as it was added during the Tower Heroes Event. It was removed in The Hunt update.
+Seek has 5 UGC items: Seek's Eye, Seek Headphones, Seek's Eye 2.0 No Veins, Seek's Eye 2.0 With Veins, and Seek's New Whip.
+Seek's Eye is currently the least expensive UGC item compared to other LSPLASH products.
+Seek's New Whip is currently the only UGC item that references the 2023 April Fools Event.
+Seek is currently the entity with the most UGC items, the second before was Figure.
+Prior to The Hunt update, Seek's eyes can be seen in the Lobby, behind a barricaded section with wooden planks near the initial spawn point. Currently they are located near fireplace opposite The Backdoor part, emitting the same sound heard in the gamerun.
+They can also be seen above the Mining Elevator in The Electrical Room.
+Prior to The Content update, the first Seek chase in The Mines was a lot harder and more intense with more rocks falling from the ceiling and being used as obstacles.
+The player can still sometimes see this in action, but it is unlikely that they will encounter this now.
+Prior to the Hotel+ update, Seek's second chase lasted eight rooms, using a similar format to the current one.
+Seek's chase sequence animations were improved in the Hotel+ Update.[5]
+Seek was the first entity to be added to the game and that was created specifically for DOORS.
+Seek is one of the three entities only able to be stunned by the Crucifix, the others being Figure and Queen Grumble.
+Seek's crucifix achievement image is a reference to a meme from Sparkles And Champagne.
+Dam Seek is the only entity for which you won't be given a badge for using Crucifix[6] against it, beсause there isn't relevant badge in the game.
+The achievement description for Running Track is a reference to the "cart ride" genre of games on Roblox, in which the player typically rides a minecart into a giant version of a character.
+Besides the chase and crucifix achivements, Seek also makes appearance on the archivements such as "Hotel Hell" and "In Plain Sight" on the T-shirt.
+Seek's jumpscare sound effect is the same as Jack's jumpscare sound effect but high pitched.
+Seek is currently the only entity that can kill in 6 ways instead of 1, with those ways being hands, fire, slime, worms, blobs, and the entity itself.
+During the first Seek Chase, the player used to play an animation of crawling through the falling bookcases. This was changed, and now the player must manually crouch through them instead due to lag killing a lot of players.
+As of the Hotel+ update, the game no longer makes the player run automatically after the cutscene, forcing them to run on their own.
+Seek does not have an animation for jumping over the broken bridges or crouching in small crouch spaces during The Mines chase. It simply runs over the gap, or phases through the wall. It is likely that this is because under any normal circumstances, the player would not be looking back during the chase, meaning there would be no need to add any jump, fall, or crouch animations for Seek.
+Seek was supposed to chase the player in pitch darkness due to the Guiding Light not existing at the moment[citation needed].
+The old model for Seek was changed because the mesh was not created by the DOORS developers, nor were any of the appendage's moveable or poseable. Seek's old model was actually a retextured version of a character in a game called The Legend of Zelda: Ocarina of Time 3D, where its base origin was a recurring enemy called a ReDead, who is a tall zombie-like monster.
+Seek is named after how it 'Seeks' the player.[7]
+Seek is one of the few entities capable of altering a player's appearance upon death; another notable entity is Figure. The dead bodies of those killed in the chase sequence have a similar texture to Seek. Grumbles and Gloombats can also do this.
+As of the Hotel+ Update, Seek can manifest paintings by showing a painting with Seek's eyes to hint at its arrival.
+Interacting with the "painting" will show a message that reads, "This isn't a painting."
+In The Hunt update, the "paintings" can appear after the chase.
+Seek is also one of the few entities to be shown in a painting "Nothing To Do", another being Jack in the painting Captain Jack.
+The player's screen will start to slightly shake while in the chase, possibly to make it harder to pass the crawlspaces easily, or to add realism.
+The dark-red aura of the chase can be a reference to the Ink Demon's chases and appearances from Bendy and The Ink Machine that is manifested through walls being filled with dark aura.
+Seek may be based off by the Lost Ones in the Bendy and Ink Machine franchise. Both of have humanoid and disproportionate bodies, is aggressive to the player, and is covered with Inky substance around their body.
+Specimen 2 from Spooky's Jumpscare Mansion may be Seek's main inspiration, as both of them appear as humanoids made of goo. Specimen 2 can also appear from the green mud in the HD Renovation of the game.
+Seek's appearance can be based off of Shambling Mass from Undertale due to their appearance on MTT Resort.
+Seek's eyes' vein texture ID is 1935531878.
+The sound of footsteps may be an edited sound of Heavy Footstep Sound Effect.
+Seek could possibly be the main antagonist of DOORS, due to its major role in both floors.
+Although many people believe that Seek is the humanoid figure made of goop, Seek is actually just a black goop that can transform into any shape, and it uses eyes to find the players.
+There is no true form of Seek in any way, Seek is one large goop taking forms (blobs, arms, humanoid, etc) according to Redibles.
+Seek's "goop" is referred to as "Slime" by Guiding Light.
+Seek's eyes that appear before the chase make an ambient noise when they appear and blink.
+Seek's eyes, the "Seeks Eye" and "Seek Headphones" UGC items[8] and the eye on Seek's head are optical illusions. The eyes are indented inwards and create the illusion that they are always looking at the player (or more precisely, the camera, since most of the time the game is in first person). For this reason, the cameo eyes in the Lobby and during the pre-chase cutscene do not follow the player but the camera instead.
+The statue in the Courtyard creates the same illusion, which implies it has a connection with Seek.
+During the first chase cutscene in the Mines, Seek's eye is visible on one of the drops of slime.
+The bigger the eye, the louder the ambience is.
+Seek's eyes can sometimes overlap, making a fusion of 2 or 3 eyes.
+Seek's eyes do not blink in the mobile version.
+After the Seek chases, its eyes' ambient sound can still be heard if standing close to the wall and eye particles can be seen.
+Seek's jumpscare eye resembles the eye on its old model.
+Before the Hotel+ update, Seek's eyes rarely used to appear in The Courtyard's walls or the middle of the room.
+This has now been changed, due to The Greenhouse and the fact that Seek's second chase sequence cannot appear that late now.
+Seek is not an anatomically correct human figure, but rather a mound of black slime that tried taking the shape of one, with one of Seek's eyes being planted on the face.[1][2]
+There is a theory, that the paintings during Seek's crescendo are its shapeshiftings and not actual paintings.
+During the fight in the dam, it can be theorized that Seek can clone itself or create minions to get the player, or they can also be a part of Seek similar to its arms.
+The minion/clone theory for humanoid Seek is inforced by the Sewers second Seek chase cutscene in which a giant hand breaks the wall and is followed by humanoid Seek, which also appears along with the arms in the Hotel chases.
+Seek is capable of shapeshifting into virtually anything, although it will likely always be imperfect in some form.[9]
+According to RediblesQW, Seek would struggle more to turn into objects that are constantly affected by collisions, such as a chair (that wouldn't work, due to it being made of black slime) and a pole, that would probably just fall.[10][11]
+Seek and the black slime used to be the same model, as was evidenced by the black slime peeking under Seeks feet.
+RediblesQW has stated that if Seek's body somehow got destroyed into pieces or if one of its body parts got cut off, Seek is able to regenerate it back if it wanted to.
+It may be the case that, canonically, Seek is constantly stalking the players and their progress.
+Seek's arms either kill the player by strangling them or pull them out of a window. However, for the latter to be true, the Grand Hallway has to be several yards above ground for fall height to be deadly.
+Seek does not scream so much as letting out a guttural noise, done by manipulating itself.[12]
+RediblesQW has also stated that Seek most likely could form a mouth if it wanted to.
+Seek is Wowzers' favorite major character.[13]
+Seek is one of Redibles' favorite entities.[14]
+Screech is most likely the result of a Giggle coming into contact with Seek’s slime, as the two have the same substance covering them.
+However, it can be that Screech is not a Giggle but an older stage of it's cycle, due to the slightly larger size and the addition of 2 tentacles.
+Seek in real life would have a height of 1.96 meters/6 feet 5 inches/7 studs tall, meaning in the game he is this tall comparing to the Classic Robloxian Height (1.4 meters/4 feet 7 inches/5 studs).
+With 1000 MAX health, it takes about ~5.9 seconds to drown in Dam Seek's slime.
+Seek cannot take the commonly fan-represented form of it wearing furry ears as its goo would stain the furry accessories.[15]
+When the Player dies to the Queen Grumble in the second Seek chase, a special death message will be activated, this death message states that Seek and the Queen Grumble are fighting.
+Seek may have a relation to the Unnamed Red Architect due to the large amounts of red light emitted from the entity, along with the Crucifix failing on it.
+
+Advertisement
+Negative Removed content
+If the modifier "You Really Can Run" was activated, Seek's Chase would have been longer (Makes the intersection rooms spawn more), and start earlier (usually door 18-21 in the first chase sequence, and door 67-70 in the second chase sequence, allowing it to occasionally spawn before The Infirmary). It was removed in The Hunt update (15th March 2024) because it made the game easier[16].
+This is because when the crescendo started, at the time, other entities were disabled from spawning. If modifiers such as “Rush Hour”, "Really Bad Time" or “Worst Time Ever” were activated, it would have been significantly easier.
+Additionally, Seek's Chase was longer, which gave more time where most entities could not spawn.
+The audio when opening a door in Seek's crescendo was louder than before.
+Since The Hunt Update, the player can now hear the sound made when opening a door during Seek's crescendo.
+After The Hotel+ Update, Seek's near footsteps sound was removed. The reason for this is unknown.
+However, players can still hear Seek's near footsteps until Seek leaves the first chase room.
+Seek's near footsteps sound was re-added in the Great Outdoors Update.
+If the modifier "It Can Run Too" was activated, Seek would run unfairly faster. It was removed in The Great Outdoors Update because Seek's speed got reduced in that update.[17]
+Bugs Bugs
+There is a bug where Seek can instantly disappear, end the chase and kill everyone in it randomly.
+Seek and its eyes on the wall may have red spots, while the correct render is pure black. This is due to the lighting in the game.
+Sometimes Seek's eyes will not load in, and the player will only be able to see them in paintings and flashing eyes around their screen.
+In the opening cutscene, when Seek starts to run, the player can hear that the audio for Seek's footsteps is not synchronized with the run animation.
+During the opening cutscene, it is possible to stand behind Seek during said cutscene with the help of other players, although the player will still be teleported to the normal position at the end of the hallway once the chase starts.
+If the player is standing on Seek's spawn point, they will hover above it in the cutscene.
+This is not the case anymore, as the player will just be automatically moved to the side.
+At the end of Seek's chase sequences, if a player goes back into a corner, the door will close, but the player will be killed in the process. The only way the player can survive is with a crucifix. By sitting in the corner and holding it out, it will restrain Seek; therefore, it cannot kill the player. After Seek bangs on the door three times, it will proceed to reverse back into the previous room’s wall and despawn, along with the room after a few seconds.
+Because of this, the players are now stuck. The only way to move on is to go back to the previous room and fall into the void or wait for the Void to teleport the said players out, which will teleport players back to where they are supposed to be, but this can come with a price. The players ahead could possibly trigger Rush or Ambush; if so, they will spawn at the end of the hallway where Seek disappeared.
+If the player in question has bad internet, the door will delay opening. By the time the door opens, it’ll be too late to avoid Seek.
+The player can also do this glitch if they go back into the ending door after they go into the next room.
+Seek will sometimes T-Pose when spawning if the player has bad internet or on low graphics.
+This may also happen if a crucifix has been used just prior.
+There is a bug where the player can block Seek with the automatic door closing feature. To do this, they must use a crucifix on Seek, then take vitamins and run through the doors quickly. If done on time, Seek will not be able to bang on the final door of the chase sequence due to it being stuck. This allows the player to freely explore the chase area up to the point where Seek got blocked.
+Since Seek is not able to bang on the final door of the chase sequence due to it being stuck, players will remain fast as long as they don't exit the room for a few seconds.
+There is a bug, where arms do not appear at the last corridor.
+There is also another bug where the chandeliers do not appear at the last corridor.
+There is a possible bug where Seek's eyes will not appear on the graphics less than two and will only appear in the next room when the graphics change, because the room the player is in is already loaded.
+When using exploits, there's a chance that Seek's animation does not play; therefore, the player does not get the speed when starting the cutscene.
+There is a bug where the crescendo can last only for two rooms, but when chase starts, Seek will not appear, and the player can freely explore the chase rooms. They will be considered normal rooms, and players will not get speed boosts.[18]
+Seek can very rarely kill the player even when they have finished the chase. This is due to the player's and Seek's hitboxes colliding the moment before the door closes.
+There is a bug where Seek will phase through the door after it closes, stopping right in front of it. It will idle while playing its running animation for a few seconds, before phasing back through the door.
+Seek's eyes can appear in Halt's Hallway.
+In Seek's bossfight in The Dam, there used to be a trick that allowed the player to climb over the boulders and stair railings, allowing them to completely avoid taking any form of damage from Seek. This has been patched as of 09/18/2024.
+When using a modifier for Eyes, usually one that will have it spawn in every room, the player can take damage from it during Seek's rising cutscene.
+If the player reaches door 146 and doesn't go near the bridge that will activate the minecart cutscene, Seek will go down when they trigger the minecart cutscene, Seek will be above them and will kill them when the minecart cutscene ends.
+
+Advertisement
+Patched
+There used to be a bug where if a player was in a closet and another player triggered the chase, they would be able to go behind Seek until it goes to the next room.
+In earlier versions of the game, if a player was using low graphics, the Guiding Light would not illuminate the crawlspaces that the player(s) had to run through, which caused quite a lot of confusion amongst them. This was later patched.
+There was a bug when the hands during Seek's chase sequence used to be unable to kill the player. This has now been patched.
+At the end of Seek's chases, the next progression door can be opened from a far vicinity. This is due to the fact that the chase usually increases the door opening range to prevent delays from opening doors. This effect will still go in action until the door after Seek chase sequence is opened.
+This does not apply to Dupe doors.
+This has been patched after The Mines Update.
+There was a bug after the Hotel+ update where Seek would appear late (possibly doors 78-86), and because of The Greenhouse being added, players could not progress and would die to Seek. This has been patched.
+Damage Jumpscares
+1st Person Jumpscare
+The screen cuts to Seek's eye. The screen darkens around the edges, with a red hue surrounding Seek’s eye as it shakes in the center for a brief moment before the screen fades to red, signaling the player’s death.
+
+1st Person Jumpscare (Hands, Hotel)
+Seek's hand will drag the player into the window, killing them.
+
+3rd Person Jumpscare
+Seek will pass through the player, covering them in its slime.

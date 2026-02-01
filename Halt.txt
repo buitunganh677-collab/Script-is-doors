@@ -1,0 +1,195 @@
+Halt
+486
+View source
+
+Halt
+Widehalt2
+INFORMATION
+Type
+Hostile (Lethal)
+Behavior
+Slowly approaches players and damages them on contact; teleports and instructs them to turn around.
+Floors
+Canon Floors
+The Hotel
+The Mines
+Floor 3 (Very Likely)
+Visions
+
+Daily Runs
+Other Floors
+
+HOTEL-
+Damage
+Damage 60
+Spawn Rate
+Almost guaranteed (The Hotel)
+Guaranteed (The Mines)
+ADDITIONAL INFORMATION
+Date Added
+August 10, 2022
+Creator(s)
+Lightning Splash
+SOUND FILES
+Speech
+"And one step back."
+- "Two Steps Forward" Achievement description
+Halt is a hostile entity in DOORS, appearing in The Hotel and The Mines, inhabiting The Dining Hall and The Bridges respectively.
+
+
+Contents
+1	Appearance
+2	Behavior
+3	Locations
+4	Notes
+4.1	SUPER HARD MODE!!!
+4.2	RETRO MODE
+4.3	PARTY MODE
+4.4	HOTEL-
+5	Bugs
+6	Trivia
+7	Related achievements
+8	History
+9	Gallery
+10	References
+00:00
+
+41:20
+
+
+
+
+
+Overview Appearance
+Halt takes an appearance as a large translucent blue ghost, with illuminating, glowing cyan eyes and a static aura that possesses its victim's vision. Its ghostly body has a waveform scale and a visible opening at the bottom. Its old appearance was a tall purple ghost with glowing purple eyes, and its old appearance was from Eyes' earlier model. Its body visibly spins in a counter-clockwise direction.
+
+Behavior Behavior
+When the next door is opened, there's a chance that all players will be teleported either into The Dining Hall or The Bridges, depending on the floor, illuminated by Halt's eyes. A dim, bluish glow will emanate from and within the room.
+
+Halt's first appearance will be behind the player, slowly approaching them before teleporting in front of the player, making its presence known by flashing a blue pixelated (clockwise) rotate symbol (↻) with the words "TURN AROUND" in the background when giving instructions, or its eyes and "RUN AWAY" when the player gets too close to him on the entire screen. He will then teleport behind the player again, flashing the same message again. This behavior is looped until the player has reached the end of the room. If he makes contact with the player, they will take 60 damage.
+
+The player can use the crucifix on Halt, banishing it. Shortly after, the player will be forced out of the room, unless it is the Bridges.
+
+In general, Halt's tactic is to disorient the player and provide a sense of claustrophobia whilst ordering them to turn around. Due to such disorientation, the player may lack a sense of direction, making Halt very deadly. To even further disorient the player, the entire encounter is in darkness, and is bathed in constant monotone static, accompanied by disturbing ambience noises that gradually raise in pitch, and gradual boosts that raise the speed of both the player and Halt. Halt needs to be dealt with as quickly as possible, as the encounter will just become harder over time.
+
+Door Locations
+The Dining Hall - A long room with tables, chairs, and plants on either side, resembling a restaurant.
+The Bridges - A room split into 3 sections, each with 3 bridges, 2 of which are broken and cannot be crossed.
+Notes
+Prior to The Hotel+ Update, the chances of Halt spawning were 3%, or 
+1
+33
+{\displaystyle {\frac {1}{33}}}. However, after Hotel+, Its chances of spawning have increased from 0.1 to 0.5%. However, this does not seem to be the case for doors that are between the second Seek chase and The Greenhouse, where its chances of spawning are increased significantly, unless if Ambush spawns, or Halt or Ambush have spawned in earlier Doors.
+After The Mines Update, Halt is guaranteed to appear in a run once, and it can't appear more than once. However, this is no longer the case as of The Great Outdoors Update.
+Halt can be encountered as early as Door 1.
+Before The Hotel+ Update, Halt could be encountered as early as Door 7 and as late as Door 96. He can no longer spawn in Doors 93-99 due to the addition of the Greenhouse. However, it is possible for him to spawn on Doors 90 to 92.
+In The Mines, Halt can spawn as early as Door 103 (Door 101, although it's an uncommon glitch).
+Players don't have to turn around when Halt appears in front of them, as walking backwards can also work, and takes less time.
+If a player does not want to lose speed when going backwards, then they can instead turn ninety degrees to the left or right and alternate between left and right movement based on where Halt is located. Since there is no speed decrease when going sideways, this strategy is effective when the 'My Legs Are Killing Me' modifier is activated.
+Before The Hunt Update, there was also another way to beat Halt, for when it appeared in front of players, they could just hug the wall, wait for Halt to pass and then continue on normally.
+Entering The Dining Hall or The Bridges will close the entrance to the room immediately, preventing players from backing out.
+In some situations, the player can stand still, and Halt won't be able to reach them, though it is not recommended to rely on this.
+In multiplayer, other players can go further ahead and make Halt faster, therefore making Halt able to get the idle player.
+In multiplayer, other players will be rendered as ghosts.
+Before The Mines Update, players were rendered invisible.
+This also happens during Seek's chase sequences. This is due to players being unable to see past and being distracted by the other players, resulting in decreased survival chances.
+Halt will de-spawn when the player exits the room.
+Halt can still go out of bounds. In that scenario, it's best to let it teleport behind the player.
+Halt's speed was increased significantly since The Hotel+ Update.
+The closer the player is to the next door, the quicker Halt is, so timing is significant here.
+Players can use vitamins against Halt at the very start of the room, as it will not spawn immediately, which will make the player to finish half of the room, but the player must keep an eye on "TURN AROUND" screens, but this will force them to return to a greater distance. Vitamins are riskier if the player(s) are using the "Watch Your Step", "Are Those Pancakes?", or "I Love Pancakes!" modifiers that makes Snare to appear in Halt's room, making it almost unnoticeable.
+Entering Halt's room will instantly de-spawn any of the following entities: Rush, Ambush.
+If Rush still hasn't started rushing, or if it's too close to the room, it won't de-spawn, and will enter the room, causing a guaranteed death as there are no closets in the room.
+Being attacked by Halt after opening the exit door in its room will not damage the player.
+However, if the player were to encounter Halt for a second time, they will immediately take damage with no way to avoid it.
+Since the Modifiers release, if you have unlocked "Hotel Hell" and enabled the "MAXIMUM OVERDRIVE" modifier during your run, you can use any available vitamins and run through Halt's cue without having to turn around, which makes it easy in one go if you get the right timing.
+Halt could not spawn in Super Hard Mode.
+As of The Mines Update, Halt is almost guaranteed to spawn in Room 71 in The Hotel, usually right before the second Seek chase.
+If Halt had not spawned at any point before the second Seek chase, then it will always spawn right after the room the chase will conclude in.
+The Bridges are more likely to spawn before the first Seek chase in The Mines.
+Players can interact with anything in Halt's rooms, such as Minecarts, and have the interaction be global, which can lead to sabotaging other players by making them get hit by the minecart and Halt, which can lead to death.
+Currently, there are no interactable objects in either of Halt's rooms as The Grotto, which had a minecart section, was replaced with The Bridges in The Content Update. The Grotto can still be found occasionally as a regular room.
+Its possible for Eyes to appear in Halt's room even without modifiers. It is unknown if this is a bug or not.[1]
+It is also possible for Lookman to spawn in Halt's room with the modifier "Look, Man"
+
+Advertisement
+SUPER HARD MODE!!!
+Halt doesn't spawn in SUPER HARD MODE!!! likely due to the addition of banana peels.
+RETRO MODE
+Halt doesn't spawn in Retro Mode, possibly due to the time limit.
+PARTY MODE
+Halt doesn't spawn in Party Mode, but his rooms will appear as normal.
+HOTEL-
+Halt's attacks are slightly easier to avoid.
+Halt is not guaranteed to appear.
+Halt warns about his appearance by a long flickering of light.
+Bugs Bugs
+Sometimes Halt could appear near guaranteed rooms (Room 89, Room 48...) and it would not be a hallway but rather a regular room. This has been patched.
+There was a bug where if the last door of Halt's hallway didn't load and the player would get Glitch, Halt's particles would freeze on the player's screen (which would also be blue) and Halt's sound effects would continuously play.
+A bug previously existed in which Halt could appear at Door 1, but it has been patched.[2]
+The Moonlight Candle does not go out when Halt spawns.
+It is unknown if this is a bug, or the developers simply not adding this feature in.
+There's a glitch where Halt would not spawn and make the visual effect disappear.
+Although the player would not be forced out and would have to walk to the end of the room.
+There was a bug in which Halt could not reach the player if they move out of its way to small gaps between drawers and shelves in its old hallway in The Hotel.
+This was fixed in The Hunt Update where players were unable to go to the side of the wall due to an invisible wall preventing this.
+There is a bug in which reviving inside The Grotto and leaving would result in getting the Two Steps Forward achievement, despite dying to Halt.
+There is a small chance when leaving The Bridges in The Mines, that the player will not be teleported correctly and get teleported back by Void. Then, the player will fall out of the map again, but get teleported by Glitch, then a second time by Glitch, and then teleported to the next room. For the duration of that room, Halt will still follow the player but deals no damage, and the player is given a speed boost.[3]
+There is also a chance that Halt does not spawn for the player, leaving the room impossible to die to.
+There is a bug where if a player spawns Halt while a player is climbing a ladder, it will immediately despawn.
+This is only for the player that was climbing the ladder, as Halt is client-sided.
+There's a rare chance that if The Dining Hall door closes when you're outside Halt's room, Void will teleport you into Halt's room, however, Halt does not spawn.
+Attempting to return to the room Halt spawned in by use of the Admin Panel will result in the room not being present, with Glitch teleporting the player to the most recently opened door.
+
+Advertisement
+Trivia Trivia
+Halt is named after the fact it "halts" the player from going further.
+To halt means to "bring or come to an abrupt stop".
+Halt's original name was "Shade".
+It was also supposedly named "Hault" at one point.[citation needed]
+Halt is still called Shade in the game files.
+Halt's first design is a reused asset of Eyes' older model.
+Halt, similar to Screech, A-90, Timothy, Dread and Haste is a client-side entity, meaning every player will encounter a different Halt.
+As a result, players who are dead and spectating the game will not see Halt and any of its effects.
+As of The Outdoors Update, Halt is one of the ten entities that can actually “chase” the player. Prior to the update if direction was switched, he would simply just go ahead and then teleport, though it could be that Halt could always chase the players but due to the structure of the old hallway it wasn't able to properly follow the player.
+The other ten entities that could "chase" players are Figure, Dread, Haste, Groundskeeper, Surge, Monument, Grumble/Queen Grumble, A-120, and Seek (Hands and Sludge in the Dam).
+The texture for Halt's eyes in the jump-scare is called "sanseyelol".
+This also happens to be the same texture as Guiding Light's particles, Eyes' sparks, and the Flashlight/Shakelight's glow.
+It was later renamed to "why are you guys commenting on this" with the description also changing to "bro..." If the "read more" button is pressed, it says "use code SCREECHSUCKS".
+This code gives 25 Knobs.
+Halt's model uses the "Glacier" material.
+Like Sally, Halt is not a decal but a 3D Mesh.
+Although Sally can appear as a decal, but only when out side the window.
+Halt has its own UGC accessory, dubbed "Halt Cloak" (legacy, see newer version)
+Halt's chase in The Mines might be inspired by the "Abyss rooms" featured in "Spooky's Jumpscare Mansion" as both feature three routes, two of which are dead ends which feature furniture at the end of them.
+The developers have also stated that "Spooky's Jumpscare Mansion" was part of the inspiration behind DOORS.
+Despite its room in The Hotel changing in The Mines Update, Halt's achievement icon still features its old hallway.
+If one look closely at the Buddy System achievement icon, Halt's eyes can be seen. This includes achievements like Rock Bottom.
+Halt has one of the longest voice lines with the Voice Acting Modifier.
+On release, the hallway's lights went off instantly with Halt being directly behind the player, confusing new players.
+This was changed in a later update, and the event now takes longer, making the encounter easier for new players.
+If the player decides to stay in the room with Halt active for long enough, the loud ambience slowly increases in pitch and speed before abruptly ending, resulting in silence.
+In multiplayer, hiding in a closet or under a bed with perfect timing can give the player ability to stay outside Halt's corridor.
+If the player manages to witness Halt's corridor disappear, the player would be able to see Halt as it teleports to the end of the hallway falling into the void. This can also happen when being teleported by Glitch.
+Should a player have a bad connection to the game, it is possible for them to skip Halt and walk to the next door.
+However, there is a chance that Halt can pause and kill the player.
+When entering a room with Halt, the dark room audio cue can be heard.
+Screech is able to spawn while entering a room with Halt, even if no modifiers are active.
+The sound that plays whenever the "TURN AROUND" warning appears on screen can be found here.
+If Halt gets too close to the player, the words "RUN AWAY" will start to flash on the screen.
+Once the player exits Halt's room, they can no longer go back inside.
+Before The Hotel+ Update, players could go back inside Halt's hallway and loot through the drawers.
+Before The Hotel+ Update, when people could loot through the drawers, the developers decreased the chance of items spawning in Halt's drawers.
+Halt's jump-scare sound is the same as Glitch's but faster.
+Halt is LSPLASH's least favorite entity, with him saying that it could be implemented better.[4]
+Halt's body spins in a counterclockwise direction.
+Though it is unknown why, Halt does commonly spawn in the room directly after the second Seek chase.
+If it appears in your run at all that is, as after the Hotel+ update Halt is rarer than most.
+Halt is referred to by he/him pronouns by El Goblino[5], though it should be stated that LSPLASH has not given definitive genders or sexes to the majority of the entities including Halt.[6]
+El Goblino also believes that Halt is guarding the food inside The Dining Hall.
+Halt has the same ambience as Eyes but in a lower pitch.
+Halt's Crucifix sound is the same as its ambience sound but higher pitched.
+In the 2024 April Fools Event, Halt can be heard talking about the TURN AROUND screen. It says that the screen was actually created by an unknown entity, possibly Guiding light.
+Halt’s Crucifix Achievement name is currently being connected to the same video by a famous mukbanger, Nikocado Avocado. Although, the achievement appeared much earlier.
+According to El Goblino's dialogue, Halt may be guarding the dining hall at The Hotel.
+Before The Hotel+ Update, Halt's TURN AROUND screen was Halt's eyes instead of a rotate symbol (↻). Before The Mines Update, to warn players of Halt's presence, the lights used to flicker, although for longer than usual in comparison to Rush.

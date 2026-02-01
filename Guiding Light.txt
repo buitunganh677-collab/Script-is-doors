@@ -1,0 +1,208 @@
+Guiding Light
+333
+View source
+The subject and name of this article has no proper denomination, and is unofficially titled based on conjecture or references found in-game.
+Not to be confused with one of the other Three Architects, Moonlight (Disambiguation) or Curious Light.
+
+Guiding Light
+Render
+Symbol
+Render
+INFORMATION
+Type
+Friendly
+Behavior
+Help the players to progress through the main floors.
+Floors
+Canon Floors
+Lobby
+The Hotel
+The Mines
+Floor 3 (Certain)
+Non-Canon Floors
+
+SUPER HARD MODE!!!
+RETRO MODE
+PARTY MODE
+Battle Mode
+2025 Trick or Treat
+Visions
+
+Daily Runs
+Other Floors
+
+HOTEL-
+ADDITIONAL INFORMATION
+Date Added
+August 10, 2022
+Creator(s)
+LSPLASH
+SOUND FILES
+Speech
+"She said we should call that one Blitz"
+- Curious Light likely referring to Guiding Light
+Guiding Light, also named Moonlight after the names of some items and previously by a painting in The Outdoors, is a mysterious blue light, one of The Three Architects, and one of the main deuteragonists of DOORS known for her helpful and welcoming nature.
+
+
+Contents
+1	Appearance
+2	Behavior
+2.1	Finding essential minor objects
+2.2	Seek encounters
+2.3	Figure encounters
+2.4	Post-Death
+2.5	Notes
+2.5.1	SUPER HARD MODE!!!
+2.5.2	RETRO MODE
+2.5.3	BATTLE MODE
+2.5.4	HOTEL-
+3	Death messages
+3.1	Canon messages
+3.2	Non-canon messages
+3.3	Removed messages
+4	Trivia
+5	Bugs
+5.1	Patched Bugs
+6	Related modifiers
+7	Related achievements
+8	History
+9	Gallery
+10	References
+00:00
+
+41:20
+
+
+
+
+
+Overview Appearance
+Guiding Light appears as a simple glowing, light blue (or cyan) aura/light with small bright cyan sparkles emanating from her. She is associated with a glowing cyan moon, which is seen in the "Spacetime" painting and the symbol seen in the middle of multiple sigils throughout the main floors and when the player dies. Her appearance changes when she's seen creating or regenerating something (such as a Minecart), in which she appears as a glowing cyan-ish light blue burst.
+
+Behavior Behavior
+Guiding Light assists players throughout the game, below is a list of the different ways she helps the player.
+
+Finding essential minor objects
+When the players struggle to find a required item to go to the next door such as Keys or Fuses, Guiding Light will highlight the object's location and the location it should be used (such as a Generator or a Door, helping the player to find it, then showing the location where the object should be used.
+
+Seek encounters
+In Seek's chases, Guiding Light helps the players by highlighting the correct path to take, such as the correct Doors or where to crouch and jump, and shuts the door(s) behind the players at the end of each chase. In The Dam, Guiding Light applies a glow effect on the Valves that need to be turned. Furthermore, according to her dialogues, she also placed the valves in the room.[1]
+
+Figure encounters
+In the Figure's encounters, Guiding Light helps players in various ways.
+
+In The Library, Guiding Light distracts the Figure by knocking over and breaking a lamp to prevent it from attacking the players. She also adds a moon symbol to the Book containing useful information to help players escape, and closes The Library door after the players have escaped.
+
+In The Electrical Room, Guiding Light illuminates the Circuit Breaker Switches dispersed throughout the room.
+
+Finally, in The Shafts, Guiding Light seals the doors to prevent the Figure from passing through them.
+
+Post-Death
+Each time a player dies in a main floor, Guiding Light provides useful information on how to avoid dying to the entity responsible. This guidance appears underwater, where the player swims and looks towards Guiding Light. The tips become increasingly precise as the player dies to the same entity.
+
+Notes
+Some objects that Guiding Light will highlight and emit sounds to include levers in small basements, switches in The Electrical Room, Books in The Library, fuses and keys.
+Guiding Light will highlight the "frame" of each puzzle painting in the Meeting Room to show players where to place them.
+If a player dies in a dark room, any items they had in their inventory will be highlighted by Guiding Light (This also goes for any player dying in The Rooms and The Backdoor, although Guiding Light is evidenced not to present in these sub-floors due to this being her only appearance in them. This is widely thought to be a bug, although it has not been changed in nearly two years.)
+Items relating to Guiding Light in some way (i.e. the Moonlight Candle, Crucifix or Moonlight Float) do not function while in The Rooms, stating they "feel lighter than usual" when held.
+This is seemingly due to Guiding Light not being present in The Rooms, and instead Curious Light.
+The Moonlight Candle will not lose fuel but will not light up as well while held in The Rooms because of this.
+The Moonlight Candle was given infinite durability as of The Great Outdoors Update.
+There is a bug where if a player has held the Moonlight Candle in The Rooms, she refuses to blow the Moonlight Candle out once traveled back to The Hotel.
+Guiding Light will still highlight doors or objects even if players have escaped from the dark room or found the item without her help.
+Guiding Light will not directly give tips on some entities (e.g. Eyes) when a player first dies.
+Before an update, Rush could extinguish Guiding Light's highlights, though the particles would still remain.
+Prior to The Hunt update, Guiding Light will light a Dupe door with a dimmer glow in a dark room. Now, Guiding Light's glow will have the same brightness between the normal door and the Dupe door.
+If any modifiers are active, Guiding Light will not give any death messages (excluding SUPER HARD MODE!!! and Trick Or Treat).
+If 'Gone Fishing' is active, Guiding Light will not light up keys, doors (including those in the Seek chase), books, breaker switches, etc. Some things are still highlighted (like crawlspaces in Chase sequences)
+Before the Hotel+ Update, when Guiding Light illuminated doors, items, or other objects, the lighting was slightly brighter and more particles were visible.
+
+Advertisement
+SUPER HARD MODE!!!
+Guiding Light does not light up any doors and items.
+However, she highlights/interacts with crawlspaces in Seek's chases, library books, blowing out the Candle, the lever in The Electrical Room, breaker switches and the Crucifix
+Guiding Light had unique death messages, all of which do not help players at all, such as just emojis, making fun of players or saying she's going to play a different Roblox game.
+RETRO MODE
+Guiding Light appears as a Rift in The Electrical Room almost near the end.
+BATTLE MODE
+Guiding Light appears really quick in dark rooms.
+HOTEL-
+Guiding Light appears much quicker in dark rooms.
+When Guiding Light highlights doors, items or other objects, the lights are slightly brighter and more particles can be seen.
+Guiding Light won't highlight library books if waiting long enough in The Library.
+Speech Death messages
+Canon messages
+Cause	Addressal	Advice
+
+
+Non-canon messages
+Cause	Addressal	Advice
+Removed messages
+Cause	Addressal	Advice	Removal
+Trivia Trivia
+Guiding Light has no officially disclosed name. The origin of the community's name for the entity comes from the name of her version of the death screen's background music ("Guiding Light"). However, the developers have also begun to refer to the entity as the Guiding Light, although Redibles says the conjectured names of the Lights in square brackets (i.e. "[Guiding Light]"), as if replacing the actual names that he would be saying.[2]
+The developer console also refers to “Gone Fishing” as “NoGuidingLight”. Although it is mainly referring to the light’s purpose of guiding the player.
+The Moonlight Candle/Moonlight Float's file name calls Guiding Light "Moonlight".
+A painting in The Outdoors, depicting the Guiding Light's symbol, also used to call her "Moonlight".
+Guiding Light's painting is called "Her", giving her a gender.
+Another entity similar to Guiding Light known as Curious Light appears in subfloors.
+Ghostly Wowzers has confirmed that both Guiding Light and Curious Light have major roles in the lore of the game.[3]
+Besides only appearing in Dark Rooms, Locked Rooms, The Library, The Electrical Room, the Painting Puzzle Room, Seek's chase sequences, The Nest, The Dam, the Death Screen and likely in similar areas in Floor 3, Guiding Light does not appear anywhere else in-game.
+Guiding Light is one of the entities that is guaranteed to spawn in every run, due to the puzzle-exclusive items, keys, crawlspaces (Seek's chase) and doors that she highlights, with the others being Figure, Seek, Grumbles, Rush, Jeff, El Goblino, Bob, and Snare (in The Greenhouse, even if players weren't trapped).
+There are multiple variations of the same death message depending on where and how players died (e.g. dying to Seek's hands).
+As of The Mines Update, Guiding Light gives an introduction to the player on their death message similar to Curious Light though the difference being that Guiding Light only introduces herself at the players first or second death to an entity and then gives death messages normally.
+As of The Mines Update, Guiding Light's death messages were slightly tweaked for consistency with the updated mechanics. This even caused some removed death messages to get added back, for example the death message of dying to Rush in The Greenhouse where Guiding Light said that "In the greenhouse, there are no lights that can flicker".
+The YouTuber KreekCraft had a unique death message on a previous stream. During the stream, KreekCraft was being trolled by the developers, such as Screech appearing repeatedly, several instances of Ambush, and A-60 appearing in The Hotel.
+Before The Hotel+ Update, if a player tried to exploit, Ambush's jumpscare would play and Guiding Light would say "bruh" repeatedly, as well as mention Ambush killing players infinite times, making them lose 100 Revives. After the Hotel+ Update, Guiding Light would play Ambush's regular death message.
+If players were to have died to Glitch before its role of bringing players back to their group was given to Void, Guiding Light was unable to determine who they died to, but would still recommend players to stick with their group.
+This was because Glitch used to be non-canon. Void, however, is canon, and Guiding Light is able to tell who players died to if killed by it.
+Glitch became canon as of The Content Update .
+The texture for Guiding Light particle was originally called "sanseyelol".
+This also happens to be the texture for Eyes' sparks and Halt's eyes.
+It was later renamed to "why are you guys commenting on this", with the description saying "bro...".
+If a player presses the Read More button, it says "use code SCREECHSUCKS".
+In the Tower Heroes Event, Guiding Light was given an evil counterpart conjecturally given the name Red Light by the community. Since the event is non-canon, the Tower Heroes' Red Light is considered as a different character than the Red Light occasionally seen in the actual game.
+After the Hotel+ Update, Guiding Light was made much brighter.
+After the Modifiers Update, Guiding Light's color was made a deeper shade of blue.
+Wowzers might have confirmed that Guiding Light will never get an Achievement in-game.[4]
+However, this is likely just stating that Guiding Light will not get an achievement in the Hotel+ update, which she didn't.
+The text encoded on the sigil when the Crucifix is used says "OneOfTheThreeArchitectsMarkedByCelestialsAssistsYou". This is referring to Guiding Light as one of the three architects. The other architects are strongly implied to be Curious Light and the unnamed Red Light.
+Guiding Light can technically appear in subfloors in rift form, through the Rift Jar.
+However, this is most likely non-canon due to how none of Guiding Light's items work in subfloors barring the Rift Jar. It is possible this exclusion was made in order to have rifts in subfloors.
+Guiding Light can also appear in subfloors by enabling the Trick or Treat modifier and then eating the Guidance candy.
+Guiding Light has an ability to interact with objects.
+During the beginning cut scene of The Library, a lamp falls over distracting the Figure. The lamp is illuminated with blue light and emit blue sparkles for a short duration, which suggests that Guiding Light knocked it over to create a diversion for players.
+When players roll a Minecart off into a pit or against wooden planks without breaking them, the Guiding Light will create a new minecart for the player. The minecart can be seen quickly fading into existence, surrounded by blue light.
+During the first Seek chase in The Mines, when the player falls at room 146, the Guiding Light also can be seen creating the ridden minecart there as well.
+At the end of events such as The Hotel's Figure encounters, Seek chases, and The Nest, Guiding Light shuts the doors, briefly showing a sigil similar to that of the Crucifix's, but with an 8-pointed star instead, and no encoded message. Guiding Light also creates these same sigils during The Mines' Figure encounters, however she simply appear idly over the doorframes instead of closing the doors, not letting the Figure pass through, but still allowing players to enter.
+Guiding Light states that she was the one who placed the valves around the Dam, similarly to Curious Light stating it placed the Backdoor's timer levers.
+A small tweak was made to the message Guiding Light gives players if they die to Seek at the segment where they have to crouch under obstacles, changing “The lights shall guide you” to “My lights shall guide you”.
+Guiding Light has knowledge on other entities in the main floors and how to survive them.
+Upon death, if death was caused by more than one entity guiding light will both mention those two entity's. (For example: Seek and the Queen Grumble in the second seek chase of floor 2)
+Judging by her reaction when dying from a Glitch Fragment entity, Guiding Light is unaware of Glitch's existence and its entities and cannot see them, unlike Curious Light.
+The large statue in The Courtyard is theorized by some to be a depiction of Guiding Light's "physical form".
+One of Curious Light's death messages reads "She said we should call that one Blitz." The one Curious Light refers to as "She" is likely Guiding Light based on the painting in The Outdoors titled "Her".
+However, it has been stated that Guiding Light doesn't name the entities. In the death messages, Guiding Light frequently refers to a lot of entities' names as "Who you call", such as "You died to who you call Ambush." This implies that they are not the real name of the entities and that they are just named by the Player, which has been confirmed to be true by the developers.[5]
+Additionally, Guiding Light messages refer to hostile entities as “it/it’s/its/etc.”, implying that these entities do not have a confirmed gender.
+As of The Halloween Spotlight Event, the Moonlight Painting is now called "Her" implying her gender is female, and that "She" could be her.
+Glitch also refers to one of the architects as "She".
+Guiding Light most likely doesn't understand humans very well because of the line 'You need oxygen to breathe... that's what I thought. Good to confirm.'
+In addition, one of Curious Light's messages in the Backdoor when you die to the vacuum is, "The vacuum has no oxygen, and I'm told you need oxygen to survive." This appears to suggest that Guiding Light could have been the one who told Curious Light that humans need oxygen, albeit this would mean that Guiding Light did not know this fact for certain.
+It's possible that Guiding Light may have assumed this based on how breathing oxygen is a common trait among land animals
+It’s likely that Guiding Light is aware that Curious Light exists. This is implied through the usage of Starlight items.
+In the Detour badge, a blue glow is found near the Starlight symbol, further implying Guiding and Curious Light know each other.
+Since The Halloween Spotlight Event, the "Starlight" painting in The Outdoors has been renamed to "Me," implying that Curious Light created them. Since Curious also created the painting "Her" featuring the Moonlight symbol, it confirms that the two know each other.
+Perhaps, likely the other Architects, Guiding Light was dealing with Glitch.
+It is possibile that Guiding Light did not like Glitch, calling it disappointing and incompetent.
+Perhaps Glitch could be the reason why Guiding Light cannot see the entities of its fragment, but Curious Light can.
+Guiding Light can appear in Visions, but in this case she's just an hallucination.
+
+Advertisement
+Bugs Bugs
+There is a glitch where Guiding Light would display a normal death message in SUPER HARD MODE. However, it is very rare and only displays the addressal.
+After The Hunt Update, a possible bug causes Guiding Light to not emit sound cues for Keys sometimes.
+Sometimes in the minecart chase against Seek, Guiding Light can lag behind the player, preventing her from revealing the correct path.
+This has been fixed since The Content Update.
+After dying to RNIUSHCg==, Guiding Light won't say anything and the Death Screen will instantly appear.
+Patched Bugs
+A glitch existed in which Guiding Light would appear at Door 1.[6] This bug was patched in The Hotel+ Update.

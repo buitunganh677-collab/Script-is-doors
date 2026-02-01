@@ -1,0 +1,346 @@
+Figure
+831
+View source
+StubIconNew
+"Oye... who do you think built this place? Figure, I mean. "
+- El Goblino (altered)
+Figure is currently a stub. Help the wiki by expanding it!
+Content needed: Assets of Figure's cutscene animations
+
+Figure
+FigureRenderOfficial
+INFORMATION
+Type
+Hostile (Lethal)
+Behavior
+After locating a player by sound, Figure will run toward them and decapitate the targeted player.
+Floors
+Canon Floors
+The Hotel
+The Mines
+Floor 3 (Extremely likely)
+Visions
+
+Cringle's Workshop
+Daily Runs
+Damage
+Instakill Instant Death
+Spawn Rate
+Guaranteed
+ADDITIONAL INFORMATION
+Date Added
+August 10, 2022
+Creator(s)
+RediblesQW (model)
+NormallyAve (AI)
+SOUND FILES
+Speech
+"You died to the Figure again... It may be blind, but its other senses far surpass yours."
+- Guiding Light
+The Figure is one of the main hostile entities in DOORS, being the main antagonist of The Hotel and the tertiary antagonist of The Mines. It appears as a "boss fight" in The Library and The Electrical Room (Hotel) and as a mini-boss fight in The Shafts (Mines).
+
+
+Contents
+1	Appearance
+2	Behavior
+2.1	The Library
+2.2	The Electrical Room
+2.3	The Shafts
+2.4	Notes
+2.4.1	General
+2.4.2	The Library
+2.4.3	The Electrical Room
+2.4.4	The Shafts
+2.4.5	Modifiers
+2.4.6	SUPER HARD MODE!!!
+2.4.7	RETRO MODE
+2.4.8	HOTEL-
+2.4.9	CRINGLE'S WORKSHOP
+3	Abilities
+4	Strategy
+5	Death messages
+6	Trivia
+7	Bugs
+8	Related modifiers
+9	Related achievements
+10	History
+11	Gallery
+12	References
+logo
+00:03
+
+41:20
+
+
+
+
+Overview Appearance
+Current Design
+Version 3
+Version 2
+Version 1
+The Figure is a towering humanoid entity with a red fleshy texture. It has a spherical head, lacking any facial features except for a wide, circular mouth filled with 25 randomly aligned teeth. It has a skinny body with a bone-like structure around its chest resembling a ribcage, long limbs with what resemble claws for hands, glowing blisters on its limbs and head, and a vein on the top of its head. Its mouth also emits light whenever it hollers.
+
+Behavior Behavior
+The Figure is a blind entity that cannot see players, but its sense of hearing is heightened to the point of perceiving footsteps from far away. In The Hotel, the Figure patrols both The Library and The Electrical Room, while in The Mines, it patrols The Shafts, a set of three minor locations.
+
+The Figure moves between preset nodes within its patrol zones. While doing so, it produces heavy, fleshy-sounding footsteps that grow louder as it approaches a player. It may take alternate routes, pause for a few seconds, or emit a low growl before turning around. If it hears a noise, such as a player walking without crouching, using an item, or opening containers, it will growl aggressively and charge toward the source(if it was a container, then it will walk normally to the location). If the sound is very loud, such as from an Alarm Clock or a Giggle, it will stomp on the source, destroying the Alarm Clock or shattering the Giggle into pieces. Otherwise, after reaching the area, the Figure will search by moving erratically near the origin of the sound. If a player crosses its path during this state, it will grab and decapitate them. The Figure is fast enough that it can only be outrun with speed-boosting items like Vitamins. If no further sound is detected after a while, it returns to its patrol route.
+
+When hunting a player hiding in a closet, the Figure will stop and inspect it with a swaying animation. During this animation, it ignores all other sounds from players or entities. A heartbeat minigame will trigger if the player enters a closet while the Figure is nearby. If the player exits the closet while it is being inspected, either manually or due to being ejected by Hide in The Mines/failing the heartbeat minigame, the Figure will instantly kill them. Once the inspection animation ends, it resumes its normal behavior and moves somewhere else, allowing the player to exit the closet safely. In multiplayer, players nearby should move away during this time to prevent being attacked by Figure.
+
+The Library
+When Door 50 is opened, a cutscene will play in which the Figure roars, walks out from behind a bookshelf, then stumbles towards the player due to the sound of the door opening. A moment later, a lamp to the left of the entrance falls to the ground and shatters, as the Guiding Light pushed it over to distract the the Figure, causing the Figure to run towards the sound. After this cutscene, the Figure will stomp on the lamp and patrol around The Library until Door 51 is opened.
+
+Once Door 51 is unlocked and opened, the Figure will continue its normal behavior. Guiding Light will eventually seal the door, and if a player is left behind, Void will teleport them to Door 51, dealing no damage.
+
+The Electrical Room
+When The Electrical Room gate is opened, the Figure will walk out from behind an indent in the wall, then rush down the stairs and pursue the player, knowing their exact location until the player "loses" the Figure. After the player hides or loses the Figure, it will patrol around the hallways of the room.
+
+Once all of the Breaker Poles are inserted into the Circuit Breaker box, a cutscene plays, in which the Figure walks on a puddle of oil on the floor with an exposed electrical wire touching it. A spark produced from the wire causes the oil to ignite and catch fire, sending the Figure into a state of "panic". It runs around the hallway, slamming into the walls, before running into and smashing through a window.
+
+After this cutscene, players will be able to complete the Circuit Breaker Puzzle. Once it is completed, the Figure's roar is heard behind the door as it bangs on it. After 3 bangs, the door breaks down, and it will then run after the players.
+
+After the player arrives at the mines Elevator and the doors close, the Figure violently bangs on the elevator door as the elevator begins to descend. As the elevator continues its descent, the Figure jumps onto it in a last-ditch effort to kill the players, tearing off the elevator cable and plunging it into a free fall. On the way down, it falls off the elevator into The Mines.
+
+
+Advertisement
+The Shafts
+The Figure returns in The Mines as a recurring enemy, in three locations: The Chasm, The Festering Meat Cave and The Generator Cave.
+
+Players will first see the Figure in The Chasm between door 110-114, an open area with two bridges, where it falls from a pipe and begins wandering. The Figure is unable to attack the player and will not respond to any player inputs.
+
+Beyond The Chasm, there are two further encounters with the Figure that are scattered throughout, the first one being between Doors 120-125 and the second one occurring after The Nest. The mechanics are the same as in The Hotel; the player will need to sneak around and try not to alert the Figure while looking for the next door.
+
+In the first encounter, around 120-124, the Figure will appear in The Meat Cave and drop down across from the player, and they will need to maneuver around them to access the exit door.
+
+In the second encounter, around 160-190, the Figure will drop down on the left side of The Generator Cave. It's recommended that players check the left side, going through all the lockers and drawers before heading towards the right, as the room requires two fuses to be put in a generator in order to exit. The players will have to be careful when searching through these containers, as the Figure can hear the opening of lockers and drawers if opened while close to it.
+
+Notes
+General
+As of The Mines Update, the only entities that can interfere with the Figure (or the player, when in The Library, The Electrical Room, The Meat or Generator Caves) are: Jack, Timothy, Glitch, Void, Screech, Dupe, Hide, Gloombats, Ambush and Giggle.
+Similar to Seek and Queen Grumble, the Figure cannot be fully banished and will only be temporarily "stunned" by the crucifix.
+Attempting to banish the Figure for the first time will grant the player the "All Figured Out" achievement.
+While the Figure is "stunned" by a crucifix, it cannot kill players who touch it.
+Banishing the Figure can buy players time to find a hiding space or "safe" area if they are being pursued.
+Players should be mindful where they use the crucifix on the Figure; in certain areas, such as a corner, it could physically block the player's escape route while it is stunned (Hotel- and Super Hard Mode).
+In such a scenario, players can get past the Figure by crouching under the space between its arm and its body.
+Prior to The Mines Update, the Figure did not react to opening containers, turning on/off items and other sources of sound.
+After The Mines Update, the Figure 's mouth light was removed from its jumpscare. It wasn't intentionally removed, but was likely accidentally broken while the developers were working.
+Prior to the release of The Mines, Hide's heartbeat minigame was originally a feature used directly by the Figure. The Figure would only leave if the minigame was successfully completed, and if the minigame was failed, Figure would immediately drag the player out of the closet and kill them. To compensate, the difficulty that Hide uses is only used during the chase sequence at the beginning of The Electrical Room, while other instances concluded after a few sets of heartbeats.
+Figure cannot hear Screech, since it is client-sided.
+When Jack's Blood Room appears at The Library, The Electrical Room, or The Shafts and Figure spawns naturally, (without Admin Panel), Figure will temporarily be crimson red.
+Figure's hearing is more sensitive after The Mines Update. It can now hear opening drawers or cabinets.
+The light coming from Figure's mouth can be used as a light source to see in the dark, although it is not reliable and sometimes turns off.
+
+Advertisement
+The Library
+The Figure follows a path that is very similar each run. It walks from the left side of the overlook into the middle of the hallway, walks to the entrance, and then toward both bookcases. Then it turns around and repeats.
+The Figure is capable of following a different path entirely.
+The Figure will temporarily leave its path due to player intervention, such as it pursuing a player. (Or using the Alarm Clock to distract it)
+Prior to The Hotel+ Update, stepping on debris scattered on The Library's floor would not cause the Figure to pursue the player, but it would walk over to investigate.
+This will not cause Figure to react to the player.[1]
+Prior to The Mines Update, when Door 51 was opened, the Figure used to run to it, attempting to reach any escaped players (an invisible wall prevents it from leaving The Library), before closing the door. Then, it gained the ability to perceive the location of every living player in The Library and pursued them at approximately 2x its normal walking speed (remaining players were also made faster), automatically killing any player inside of a closet and any player it had not killed within a certain timespan.
+This can still happen in SUPER HARD MODE!!! and in HOTEL-.
+The Figure 's walking speed used to increase by 0.75x for every library book collected, only becoming able to outrun a player after the third book collected.
+The Figure will only despawn if the Library unloads due to the Void and Figure being disabled and unable to kill if Door 51 of the library exit is closed.
+The Electrical Room
+As soon as the lever is pulled, players will be given a speed boost, and the Figure will pursue all living players with its normal walk speed, even if they are crouching or staying still.
+As of The Mines Update, it is no longer possible to outrun the Figure until it calms down at the start of the game. The Figure will only stop running if the player is hiding or impossible to reach. The only way to survive without hiding is to get it trapped on the opposite side of a shelf whilst it runs towards the player, as it will not path find around the shelf, but this is not easy. It's also possible to outrun the Figure as it will lose its track of the player(s).
+The Figure can hear players' heartbeats if they are moving. This only applies on door 100 from Super Hard Mode or from Door 50 of Hotel- modifier.
+The four corners of the hallway are barely out of the Figure's path, effectively working as a "safe spot", as long as the player does not move.
+The Figure's speed will remain the same for each breaker switch collected.
+After the Circuit Breaker Puzzle is completed, the Figure will be able to detect players "on sight" and will be able to outrun players.
+Prior to The Hotel+ Update, the Figure would turn around when it heard The Electrical Room gate open and jump from the top of the staircase. It would begin to "search" for players and would immediately detect any players that were not hiding. If it failed to detect a player, it would walk into the previous room, and the door would abruptly close behind it. After the Circuit Breaker Puzzle was initiated, it would bang on the door every 1-2 seconds. Once a player completed the puzzle, the Figure would break down the door and chase players. Staying in the breaker room would make the Figure kill said player.
+The Shafts
+The Figure has its first of three encounters in The Mines where it drops down from a vent in the ceiling and will wander aimlessly.
+The Figure is completely harmless in this first encounter.
+The Figure can't be distracted by Glowsticks or player movement in this particular encounter.
+The Figure will eat Gloombats if they're in the same room.
+As seen in this video, the Figure can crush nearby Giggles, similarly to Alarm Clocks. This was later removed.
+The second Figure encounter (first real encounter) occurs sometime between doors 120-124.
+The best strategy to do it quickly is to run into the room to aggravate the Figure, then backpedal out. This will get it over to the door quickly. Then, simply crouch behind it and follow it all the way to the door, making sure to hug the wall when it turns around. Remember that Dupe may spawn in this room.
+The Figure can enter a Dupe room if it is led inside by Gloombats or by making noise from inside Dupe's room after noclipping into it with the use of the Admin Panel.[2]
+The third encounter with the Figure (second real encounter) occurs sometimes shortly before or after the second Seek Chase.
+This room has a generator with 1 fuse already lit. The generator is in a room accessible by tunnel and thus safe from the Figure.
+Be careful when opening the lockers and drawers to search for fuses. Opening one locker/drawer generally does not cause the Figure to react, but opening two in relatively quick succession will cause it to search the area around where the second container was opened.
+In this scenario, Figure is on its passive state and moves to the location where the noise occurred; however, if the player moves, even while crouching, Figure will switch to its aggressive state and go to the location where it spotted the noise.
+
+Advertisement
+Modifiers
+If the "Come Back Here" modifier is enabled, the Figure's speed will always be similar to its speed when all library books are collected in SUPER HARD MODE!!!; much faster than it is in the un-modified game and it will be significantly faster on Door 100 as well, but not that fast as Door 50 with 8 books.
+If "Again & Again & Again" is enabled, Ambush can attack alongside the Figure in The Library and The Electrical Room.
+If "I'm Everywhere" is enabled, Screech can attack alongside the Figure in the Library and the Electrical Room.
+If any modifiers that cause Eyes to always spawn are enabled, they can attack alongside the Figure, No longer the case since The Mines Update.
+Eyes can't spawn on Figure's locations, not naturally nor via admin panel. This is only if it's bugs via teleportation from following rooms or a unsuccessful despawn of Eyes.
+There is a extremely rare chance for Figure to disappear in The Mines, it may be because the second Seek chase happened too late.
+Prior to the Mines update, if "Injuries" was enabled, and the player was slowed by low health, they could walk normally when near the Figure, because their walk speed was the same as crawling speed or lower.
+This was changed in The Mines Update, which updated the Figure's AI to attack based on crouching rather than movement speed. However, Figure can't hear the players, if the player has enabled "My Legs Are Killing Me", "Injuries", "Tripped and Fell" modifiers and having 2HP health despite of walking due too extremely slow speed.
+Prior to The Mines Update, if "Didn't Skip Leg Day", "Faster Faster Faster", or "MAXIMUM OVERDRIVE" were enabled, the Figure was able to hear players even if they were crouched.
+This is because prior to The Mines Update, the Figure's "hearing" was based on movement speed, not whether a player was crouched or not.
+If "Stop Right There" Or "Room For More" is active , A-90 will Attack alongside with Figure.
+SUPER HARD MODE!!!
+In The Library, the Figure will wear a Noob outfit, and in The Electrical Room, it will wear a John Doe outfit.
+Due to there being more library books in The Library, the Figure is capable of walking much faster than it normally would after at least 9 books are collected.
+Combined with the speed boost the Figure receives when The Library's exit door is opened, the Figure is impossible to outrun, even if vitamins are used.
+Figure can hear crouching players moving that are too close in The Electrical Room.
+If the Figure is killed by a Holy Hand Grenade, Hide will become inactive for the rest of the run.
+RETRO MODE
+Figure appears as a morph character in Door 0.
+Figure also appears and serves as an useful tool in The Library and in The Electrical Room, being a group of separate cubes.
+HOTEL-
+Figure will still hear the player if they have speed above of 15.
+Figure will kill all players if they haven't escaped yet after Door 51 has been opened.
+Figure can hear crouching players moving that are too close in both encounters.
+
+CRINGLE'S WORKSHOP
+The Figure appears with a custom animation and a custom model, alongside Subzero Screech and Breeze Ambush.
+It acts the same as The Library Figure from the Normal Hotel, aside from now being able to go to the upstairs section.
+WIP
+
+Advertisement
+Hiding Abilities
+Sharp Senses: Figure's senses far exceed than a normal Player.
+Speed: Figure is extremely quick once actively hunting a player.
+Strength: Figure has shown to be exceptionally strong, as it is capable of killing Gloombats and Giggles and decapitates players without effort.
+Animalistic Instincts: Figure is completely wild and animalistic, as it attacks anything that gets into its way or that makes noise.
+Resilience: Figure is shown to actively pursuit its goals; it jumped down from a high floor in the Electrical Room into the Elevator shaft, ripped off a cable in an attempt to instead break inside the moving elevator and kill the player. It followed players down to The Mines, in which El Goblino confirmed is something that Figure never did.
+Intelligence: In some scenarios, he does a very smart thing (ex. at the end of The Hotel, instead of ripping at the metal of the ceiling of the elevator, The Figure rips the cable off to send the player falling to their demise, etc.)
+Trivia Strategy
+The Figure always starts on the left side of The Library and travels through the middle and up the stairs. It is recommended that players start at the bottom right and go through wherever one can and hide in the corner of the randomly blocked staircase. When the Figure is between the shelves, the player may crouch-run up the stairs and find more books there.
+After reaching the second floor of The Library, it is recommended for players to camp either under the stairwell, in the stairwell, or next to the exit as these areas are barely outside of Figure 's pathing. After Figure goes down the stairs, players may start to look for books again.
+Using surround sound headphones or earbuds can easily help the player find books with its sound or know where the Figure is. Using stereo or mono sounded devices can confuse the player on where those are since they may not find a library book at all or end getting ambushed by the Figure.
+The player may also pay attention to their screen, as it shakes every time Figure does a step, which means that they are close. The sharper the shaking, the closer the Figure is to the player.
+The Paper is the only decoding item that every player should get when they start collecting books. It shows the order for each number on the lock and helps decode the shapes and numbers. It can be found on the left side on the desk.
+For example, if a shape is on any of the Roman numerals, the symbol that matches with a number, (Example: Pentagon = 5 = III) this means because the pentagon is linked to both the 5 and III on the paper, 5 is the third digit in the code.
+Every shape on the code paper is randomly selected so the player should not be looking out for one exact shape every run.
+Four of the five required books can be found before the 8th book is found, although the last book that can be found is always the last shape for the lock.
+If the player is getting pursued, it's best to use vitamins since they always provide enough boost to outrun the Figure.
+If Figure 's speed is too fast for the player to handle, finding at least 4 right shapes and doing trial and error by keeping going up a number can in fact be recommended for people who have little experience.
+As soon as the player completes the circuit breaker puzzle, it is recommended that they do not crouch and instead run straight for the elevator.
+Once the Figure has jumped out the window, and the circuit breaker puzzle is active and fixed, the players can no longer access the staircase leading to the Rift, as a shelf will fall and make it impossible to bypass.
+Prior to The Mines Update, Figure 's noise detection when it came to player movement checked for speed and not crouching, meaning, even if the player was crouching when they had a speed boost, (either via Vitamins or Modifiers) the Figure would still chase them. After The Mines Update, this is no longer the case, as the Figure now checks for crouching players instead of player's speed, unless players's speed is extremely slow.
+It is recommended to bring the Crucifix and Vitamins to The Electrical Room, as the rooms are dark, and player may accidentally run into the Figure; the crucifix or vitamins will likely be useful.
+Alternatively, Figure emits a yellow light as of The Mines Update, which is extremely useful.
+If a player is hiding in a room that may spawn a Breaker Pole, it is recommend that they stay in the room instead of near the gap, because the Figure could accidentally bump into the player.
+As of The Mines Update, the Figure can now patrol the safe spots of the Electrical Room, it is highly recommended that players should not stand up as the Figure now is always faster than the player unless vitamins are used, this is as the Figure's scripting has been changed and doesn’t pursue on speed but on sound. The Figure can always be outran with vitamins without uncrouching unless if the player is using Come Back Here modifier.
+This makes spatial hearing even more important in The Electrical Room, as the player will then be able to pinpoint the Figure's general location.
+Some items such as the Shakelight, Glowsticks, Laser Pointer, or Alarm Clock will all enrage Figure when activated. It is best for players not to use these around Figure as to not enrage it unnecessarily.
+It's recommended to start making sharp turns around bookshelves, as this can confuse the Figure, allowing the player to escape.
+The Figure cannot hear the player at all if it is far enough away from them (to the point the player cannot or can just barely hear the Figure's footsteps), allowing them to safely walk without having to crouch, although the player must always pay attention to the Figure's position and be ready to crouch again.
+The Figure can be distracted by Glowsticks thrown by a player.
+This will cause the Figure to be attracted to the thrown Glowstick.
+However, the Figure will target any sounds of players moving after the glowstick has been thrown.
+In The Mines, in the split room, one player can hide in the generator room and keep moving around to aggravate the Figure while the other players find the fuses.
+Keep in mind that the player will have to stop moving eventually to let the other players in and finish the room.
+This strategy works best when the Figure is caught right outside the entrance of the hole. The player will know this has happened if the Figure repeatedly shrieks. Otherwise, it might become risky for other players to open the lockers in the inner circle.
+In The Mines, the Figure can and will detect any sounds coming from a player being attacked by a Giggle.
+This also applies to any players walking into a Dupe door and being attacked by Dupe if they are not crouched.
+If the player gets attacked by Dupe while they are crouching, Figure won't hear them.
+Weirdly enough, opening any doors will not aggravate the Figure such as one of the few side-doors in one of the encounters of the Figure where the players are tasked to search for the door and maneuver pass the Figure.
+The Figure's noise detection is assumed to have a priority list, those being how loud the sound is relative to the Figure, for example, the Figure would be more attracted to a player getting out of a closet right next to it rather than footsteps from across the room, even if the footsteps were the first thing it had heard first. However, if an alarm clock were to go off halfway across the room, the Figure would instead chase that instead of the player getting out of the closet.
+It's possible to survive Figure with Rock candy for a very short time because has the same effect as God mode.
+Players can hide in multiple spots such as behind the couches located on the first floor of The library even if Figure is lured, and about the stairs located in the second floor of The Library, are only safe if figure is just patrolling , The stairs safe spots won't work if Figure is being lured to those spots, via clock or players. The stairs corners located on the first floor of The library are not safe cause The Figure can get into these spots and killing the players.
+
+Advertisement
+Speech Death messages
+Addressal	Advice
+
+
+Trivia Trivia
+The officials soundtracks used for the Figure's stealth sequences are "Unhinged" and "Unhinged II".
+Prior to The Hotel+ Update, Unhinged II was originally an unused soundtrack that didn't play at door 100 with Unhinged playing instead.
+The Figure and Seek are currently the only entities with two or more themes.
+If Glitch or Void teleports someone out of the Library, the music will continue playing for that person, even though they've technically escaped The Library.
+If a player is very laggy, the music will also continue to play or overlap with the current music.
+If the The Library is unloaded by Void or Glitch while the door is still open, the music will continue playing for all players because the music ends only when the door closes normally.
+Figure has a set movement speed, and some factors can modify it.
+Figure's base movement speed is 10 walkspeed (studs per second).
+Every book collected in the Library adds 0.8 walkspeed to this value.
+During the starting chase in the Electrical Room, 4 walkspeed is added to this value.
+During the final chase in the Electrical Room, 6 walkspeed is added to this value.
+When running (enraged), this value is multiplied by x1.75.
+The Figure was a contestant to be the second DOORS plush, but it was beaten by Seek.[3]
+The Figure has 4 UGC items: Figure Hood, Figure Headphones, Figure's Head and Figure's Ribcage.
+This makes the Figure tied with Seek and Screech of the most UGC items.
+Prior to The Mines Update, Figure used to be able to sense the player's heartbeat if they were too close to it. This is due to its body being more humanoid and not as robotic as it used to. Its heartbeat sensing range was decreased in The Hotel+ Update.
+The Figure's name originates from a rather older game by the creators of DOORS, in which "Figure" was the codename for the character, and the developers stuck with the name for unknown reasons. [4]
+The Figure was originally in a scrapped project where it would rarely spawn as a white, pale zombie, run towards the player on all fours, then kill the player if they touched it.[5]
+The Figure's old model (shown in image 3) can be seen in the first teaser trailer of DOORS.
+When looking at the Figure's model and removing the "Fake Head" mesh, setting the Head mesh transparency to 0 will show its old and unused head.
+The Figure's head and facial features are based on the Sandworm from Dune.
+The Figure's mouth somewhat resembles a Sea Lamprey's mouth.
+There is a chance the Figure will be stuck for a few seconds in the hallways of Door 100.
+The Figure has a rare chance to get stuck and not move on pillars or on closets.
+The Figure's roar and growls are the "Scylla growl" sound by supernob123 at a higher pitch.
+Before The Hotel+ Update, the Figure would make higher pitched roars at Door 100 than during Door 50. This sound file can still be found, and it is unknown if this file will be used in the future.
+The description for the achievement when escaping the Library references the song "We Are Number One" from Lazy Town (specific lyric found at 1:06).
+Inside of the Figure 's model, there's a sound labeled "Awesome". When played it makes an "oh my god" meme sound effect.
+This sound would be later reused in the 2023 April Fools Event, as the Figure 's death sound when killed by a Holy Hand Grenade. It is unknown why the sound was always there prior.
+Unhinged immediately stops playing in the Library after the Figure is killed by the Holy Hand Grenade, however it does not stop if the Figure is killed during the opening cutscene.
+The Figure is one of the few entities able to alter the player's corpse. In this case, Figure tears off the head of the player.
+The second entity that has the same trait is Surge.
+There is a low chance that when grabbing a player's head, the Figure 's hand will get stuck inside of the floor, causing it to be stuck. This will make it much easier to escape the Library, and also allows other players to grab illicit items.
+Before The Hotel+ Update, there was a somewhat low and somewhat high chance that the Figure would get stuck in the wall at Door 98. When this happens, the player is freely able to walk right through the door and investigate. However, the Figure can break free of the wall and kill the player, or this might not happen at all.
+Prior to The Mines Update, the Figure 's body was a ragdoll, which is why it used to get stuck.
+The Figure's animations were improved in The Hotel+ and The Mines Updates, being done by jasper_creations, who is more skilled in animation.[6]
+The Figure is one of three entities able to escape the crucifix, the others being Seek and the Queen Grumble. Lore-wise, this seems to be because they are the strongest and smartest of the entities, and mechanics-wise this seems to happen to justify their rematches later on in their respective floors.
+The animation for the Crucifix shows the Figure stuck in chains via arms, and as the Crucifix fail to banish (aka turn red), the Figure will break away of the chains and then roar. This does not mean that it will run, unless it heard something.
+The Figure's Crucifix achievement icon model likely comes from this video by RediblesQW.
+The sound that plays when the Figure dies when killed with the Holy Hand Grenade comes from this video.
+Unlike the Crucifix, the Holy Hand Grenade can actually kill the Figure, making it an easy way to beat doors 50 and 100.
+If the Holy Hand Grenade is used on the Figure after it shuts the exit door after the exit door is unlocked, the player is now stuck in The Library, and the only way to get out is to either die and revive or get attacked by Void.
+Canonical Figure can't be killed by the Holy Hand Grenade, it can only kill Noob Figure and John Doe Figure.
+When using Roblox's Free Camera behind the door inside the overview area of the Breaker Room inside the Electrical Room, the player can see shelves and a corridor at the end with a broken window. This explains how the Figure was able to re-enter the Electrical Room after previously falling out of a window.[7]
+The Figure is one of the six only entities that 'chase' players. Rush, Ambush, A-60, Seek,and Eyestalk all simply run to the next door; Glitch goes towards the direction of the player(s) but won't follow the player if they go out of their path. Snare acts as a non-moveable entity, and the other entities will jumpscare, but not chase the player as they are scripted to go in the direction of the player.
+The other entities that 'chase' players are Halt, Dread, Haste, Surge, Groundskeeper, Monument, Grumble/Queen Grumble, Sally and A-120 and most Seek forms in Dam.
+The Figure is the first entity in DOORS that is seen killing other entities during gameplay, the second being the Groundskeeper.
+If Gloombats fly into a room with Figure, it will detect the loud buzzing that the Gloombats make, and will chase after them, grabbing and eating them until there are none remaining.
+If a Giggle is brought into one of Figure 's Caves, as soon as it falls on to the floor, the Figure will track the giggling sound and crush them. The Giggle will also produce a special sound effect before being crushed. The Figure's Alarm Clock breaking animation is also the same animation as crushing a Giggle.
+Before The Library cutscene, Figure does the Ponder animation near a fallen lamp and is unable to kill the player. They can see this with the help of cheats or if they use "Nausea" candy before the cutscene.
+It is also possible for this inactive version of Figure to turn on its light, indicating there are two active Figure’s while the cutscene is playing.
+On May 20, 2023, the Figure 's teeth texture got deleted due to the moderation that violates ToS Violent Content and Gore, which has appeared to be a blood pistol bullet wound, making the Figure 's teeth textureless.[citation needed]
+It is implied that the Figure was the one who made the scratches that are seen throughout the Hotel. [8]
+El Goblino mentions that the Figure passed through Jeff's Shop, so there is a chance that the Figure locked itself in the Library.
+However, the lock to door 51 is found inside the library, the Figure being blind would have had no way to set the lock itself. One likely theory is that it may have been locked in by Guiding Light or El Goblino.
+These flesh piles also usually spawn in rooms after the Library, so the Figure could have wandered to the Library, wrecking these damaged rooms and making the scratches in the rooms in the process.
+In The Mines, a strange brown meat-like substance can be found within Figure's rooms. Its purpose is unknown.
+The piles of apparently festering meat that are associated with the Figure can be seen inside of Floor 3.
+The Figure is 7'11 (2.42 meters) tall.
+The Figure is completely blind, though its other senses far surpass those of a human.
+Ghostly Wowzers confirmed that the Figure will never be able to see. [9]
+There are exactly 24 teeth in the Figure 's mouth.
+The Figure may possibly have a brain.[10]
+The Figure seems to be the only entity that is made out of pure flesh and bone.
+The walking sound of the Figure has a brief sound of tearing/creaking flesh.
+The Figure has a glowing mouth because LSPLASH thought it looked cool.[11]
+The Figure's first encounter being in a Library is a play on the common mannerism of being quiet in libraries.
+It was confirmed by RediblesQW that the Figure is completely animalistic. [12]
+According to El Goblino's dialogue, the Figure ended up in the Mines because of the player, and he, along with Bob and Jeff, were hiding there from it.
+There exists a "prototype" mode for the deaf people in the game's files, which consists of a quarter circle alongside a Figure's head icon.
+According to DOORS YouTuber Cheddar Balls, Figure is the smartest entity aside from Guiding Light, Curious Light and Red Light.
+If Halt has spawned in the room directly prior to a Figure room in the Mines, it will not spawn. This is likely to avoid having the player insta-killed right as they escape the former entity.
+
+Advertisement
+Bugs Bugs
+After The Hotel+ Update, there was previously a bug in which the Figure is able to enter The Electrical Room elevator and kill any players inside of it. Any players it kills will receive awards as if they had died on Door 100 and will not be given any 'Floor Completed' rewards.
+This in the current build does not apply, only can apply in Super Hard Mode and Hotel-.
+This bug has been fixed. Currently, when Figure reaches the elevator, it will despawn, and the ending cutscene will begin for players who have made it inside the elevator. It will instantly kill (but not jumpscare) any players who are not in the elevator by this point.
+If a player dies after the cutscene has started, they will still receive the 'Floor Completed' rewards. There is a possible bug that causes the game to play only far footsteps sounds when near or only one near footstep sound along with the far. If a player were to be killed by the Figure while standing in the doorway of The Electrical Room elevator, the ending cutscene will play out with no music, the player's lower torso being the only active element, and (occasionally) the Figure T-posing inside the elevator before disappearing. They are still given 'Floor Completed' rewards afterwards.[13]
+There used to be a bug where the Figure would move back and forth in the same place until a player alerted it by hiding in a closet or walking close to it.
+A bug on the Circuit Breaker Puzzle room causes the Figure 's path to get on the wrong coordinates, and this makes the Figure stuck on the Circuit Breaker Puzzle room.
+The second the Figure will play the exact same cutscene as the original one.
+This bug has been fixed. Shortly after The Mines Update, Interactables weren't able to have any extra interactions past the first interaction.
+This also fixed other bugs, such as instantly collecting all 8 books at once from one book in the library by using a method similar to a lag-switch to spam interactions on one book.
+Figure is not able to hear the Spotlight.
+There is a small chance in The Mines during the Figure 's second encounter that it becomes stuck in its spawn position and continuously walks without moving.[14]
+The Figure can get stuck when trying to reach an alarm clock.
+The Figure sometimes doesn't run, this makes it difficult to know if the Figure detects them. This commonly occurs in door 100.
+The Figure cannot kill any player when checking a closet. This means that the player can exit a closet when the Figure is checking it with no further consequences.
+As of The Content Update, this has been patched. The Figure will instantly kill the player upon exiting.
+However if Figure is checking the hiding spot and is quite far away enough from the closet and without touching Figure, players can still exit the closet and survive without being killed by Figure, but is extremely risky.
+Prior to The Hotel+ Update, there was a bug where Figure would trip over the statue in the middle of the Library and run towards it even if the player wasn't walking.
+After The Mines Update, the Figure does not have any voice lines when walking normally, however, it still have its voice lines when a player picks up a book in The Library.
+It is possible for Figure to kill players through the walls in The Electrical Room, upon exiting a closet that has its back up against one of the thin walls of a shelf room.
+Since The Great Outdoors Update, Figure can kill players that are hiding if they are holding any movement key (or the movement joystick), even during the entering animation.
+To avoid this bug, instantly stop holding all movement keys (or release the movement joystick) once the prompt to enter the hiding spot has been triggered, as fast as possible.
+In The Mines, there can be a bug where Figure doesn't spawn if there is Halt in room 119-124 or room 159-189.

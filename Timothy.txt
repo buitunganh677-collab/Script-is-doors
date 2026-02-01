@@ -1,0 +1,139 @@
+Timothy
+339
+View source
+Deathicon	"Oye, hombre... I had the weirdest dream. I was m- muy pequeño, and I was fighting dat macho-meat-düd! Weird, right? Eheehee!"
+- El Goblino
+Disclaimer: Possible Triggering Content!
+The content in this page may be disturbing to people who have Arachnophobia. Proceed at your own risk.
+
+Timothy
+TimothyRender2.0
+A render of Timothy
+INFORMATION
+Type
+Hostile (Non-Lethal)
+Behavior
+Jumpscares and damages unsuspecting players when they open drawers, loot chests, and lockers.
+Floors
+Canon Floors
+The Hotel
+The Mines
+Floor 3[1] (Extremely Likely)
+Non-Canon Floors
+
+SUPER HARD MODE!!!
+2025 Trick or Treat
+Visions
+
+Cringle's Workshop
+Daily Runs
+Other Floors
+
+HOTEL-
+Damage
+Damage 5 (Non-Lethal)
+Behavior 10 (Lethal, Itchy Modifier)
+Behavior 10 (Lethal, Silky Smooth Candy)
+Spawn Rate
+1/200 (When opening containers.)
+1/100 (Itchy Modifier)
+ADDITIONAL INFORMATION
+Date Added
+August 10, 2022
+Creator(s)
+RediblesQW
+TMtIMe
+SOUND FILES
+Speech
+"Bob wants to make friends with that Timothy guy... it's a- it's- it's a bug, man!"
+- El Goblino mentioning Timothy
+Timothy is a minor entity in DOORS, spawning in containers in The Hotel and The Mines.
+
+
+Contents
+1	Appearance
+2	Behavior
+2.1	Notes
+2.2	Modifiers
+3	Related modifiers
+4	Bugs
+5	Trivia
+6	Related achievements
+7	History
+8	Gallery
+9	References
+00:00
+
+41:20
+
+
+
+
+
+Overview Appearance
+Timothy is a black spider with eight thin moldy legs, light green eyes, and two fangs on its cephalothorax (head).
+
+Behavior Behavior
+Taking the appearance of a small spider, once the player has opened a container with Timothy inside, it jumps at the player dealing 5 points of damage (0-4 if the player has 5 or less health, unless the "Itchy" modifier is enabled). After the attack, Timothy will fall off of the player's screen and disappear. If player has a crucifix, Timothy will jump, get smacked by the Crucifix and get smushed onto the floor.
+
+Notes
+Timothy has a 
+1
+200
+{\displaystyle {\frac {1}{200}}} (0.5%) chance to appear in any drawer or loot chest.
+Timothy can appear twice in one container.
+Timothy can spawn in every room that has interactable containers.
+Timothy is the first harmful entity that cannot kill the player (unless Itchy is enabled), the second being Snare (unless I Love Pancakes!! is enabled), and the third is Sally.
+It is possible to finish a Hotel and/or Mines game without encountering Timothy at all.
+Similar to Jack and Shadow, Timothy is intended to be a jumpscare only, so there is no risk of dying to Timothy.
+If the player is at five health points or below, it will leave them with 1-4 health points remaining. Because of this, it is impossible to die to Timothy without glitches or modifiers. The same goes with Snare.
+There is a bug that if the player turns away after finding Timothy, then the jumpscare will happen 'behind their back'.
+There is a bug where Timothy can hurt the player before the jumpscare. This is likely caused by lag.
+If the modifier "Itchy" is on, Timothy can kill the player, and the death screen would say "Died to Timothy".
+As of the Content Update, Timothy can be 'Crucified', though as this only amounts to the Crucifix being used to swat it, this does not use up the Crucifix.
+Timothy can prevent the player from getting into a hiding spot (such as a closet or locker) mid-attack, which takes about a few seconds.
+Modifiers
+If the modifier "Bug Spray" is enabled, Timothy cannot spawn.
+If the modifier "Itchy" is enabled, Timothy has a higher chance of spawning, damage Damage 10, and is rendered a lethal entity that can kill the player.
+Modifiers Related modifiers
+Bug Spray
+"Timothy is nowhere to be found :("
+Cannot be used with: 'Itchy'
+Floors: The Hotel, The Mines, The Backdoor (With Admin Panel), The Rooms (With Admin Panel), The Outdoors (With Admin Panel)
+Knobs -10%
+Itchy
+"Timothy will attack more often. Its bite can be fatal."
+Cannot be used with: 'Bug Spray'
+Floors: The Hotel, The Mines, The Backdoor (With Admin Panel), The Rooms (With Admin Panel), The Outdoors (With Admin Panel)
+Knobs +5%
+Bugs Bugs
+There is a bug that causes Timothy to spawn outside the container, making it float in the air.
+There is a small chance that Timothy will not have a jumpscare animation when it attacks.
+When spawned by the 'Silky Smooth' Candy, it will still damage the player if they are holding a Crucifix. The "crucifixion" animation still plays correctly, however.
+
+Advertisement
+Trivia Trivia
+It has been confirmed by developers that the name Timothy is not a reference to anything and was just a joke that they came up with when adding its achievement.[2]
+There is a Timothy easter egg in the Lobby. In the hall with the leaderboards, there is a spider web where Timothy resides.
+Timothy has its own UGC item named Timothy, and another named Timothy Jr.
+Timothy Jr. was originally named "Timothy with a hat".
+Timothy Jr. is the same size as Timothy.
+Timothy was the first entity to have more than one UGC item dedicated to it.
+Redibles has expressed interest in making another UGC item of Timothy, which consists of a shirt pocket with Timothy inside.[3]
+Timothy's jumpscare doesn't appear to jump directly onto the player's model, as in the 3rd person glitch, it still jumps on the screen.
+Timothy is called "Spider" in the game files. The Death Screen also said "Died to Spider" before The Modifiers Update, when dying to it was properly added (with the "Itchy" modifier).
+Before The Modifiers Update, it was possible to see "Died to Spider" in the Death Screen, before being replaced by "Died To Timothy".
+Being damaged by Timothy and then encountering a bug where the player dies to something that isn't a known entity can cause this, since Timothy was the last known entity to damage the player, it will be what the Death Screen will say.
+Opening a drawer that contains Timothy right before dying can cause this, as Timothy will jumpscare (and damage) the player right after the damage (and death) by the other entity is caused. As the Death Screen detects the last source of damage, it will detect Timothy (Spider) as the death reason.
+Timothy was the first entity added that resembled a real animal, that being a spider.
+The second one could be Gloombats.
+Timothy is one of the few entities to be referred to directly by El Goblino, the others being Bob and Jeff.
+It is unknown if Timothy is a supernatural being or a simple spider.[4]
+Timothy is confirmed to be aromantic and asexual.[5]
+Bob wants to be friends with Timothy, according to El Goblino's dialogue.[6]
+Timothy used to have red eyes before the game's initial release.
+When Timothy attacks the player, it makes a quiet hissing noise.
+According to a developer, out of all the entities, Timothy probably tastes the best.[7]
+As of the The Mines Update, Timothy does 10 damage when "Itchy" is enabled and becomes lethal.
+Timothy also does 10 damage when eating the "Silky Smooth" Candy, but it can't kill you
+Spiders cannot survive in areas full of gas or smoke as it can poison or kill them. If Timothy was a real life spider, he realistically wouldn't be able to spawn in a Firedamp room.

@@ -1,0 +1,250 @@
+Ambush
+841
+Sign in to edit
+Not to be confused with AR0xMBUSH, the glitched counterpart of Ambush.
+
+Ambush
+Ambush2
+INFORMATION
+Type
+Hostile (Lethal)
+Behavior
+Rushes through multiple rooms, rebounding 3-4 times, killing any player in its line of sight.
+Floors
+The Hotel
+The Mines
+Floor 3 (Very likely)
+Non-Canon Floors
+
+PARTY MODE
+Battle Mode
+Visions
+
+Cringle's Workshop
+Daily Runs
+Damage
+Damage 100
+Damage 75 (PARTY/BATTLE MODE)
+Instakill Instant Death (SUPER HARD MODE!!!, HOTEL-)
+Damage 45 (Cringle's Workshop)
+Spawn Rate
+Increases as progressing through more rooms.
+ADDITIONAL INFORMATION
+Date Added
+August 10, 2022
+Creator(s)
+Lightning_Splash (programming)
+Ghostly Wowzers (designs)
+SOUND FILES
+
+
+Speech
+"Coming back for seconds!"
+- "Rebound" Achievement description
+
+Ambush is a lethal entity in DOORS, appearing in both The Hotel and The Mines.
+
+
+Contents
+1	Appearance
+2	Behavior
+2.1	Notes
+2.2	SUPER HARD MODE!!!
+2.3	RETRO MODE
+2.4	PARTY MODE
+2.5	HOTEL-
+2.6	Modifiers Notes
+3	Strategy
+4	Jumpscare
+4.1	1st Person
+4.2	3rd Person
+5	Modifiers
+6	Bugs
+7	Trivia
+8	Related achievements
+9	History
+10	Gallery
+11	References
+logo
+00:02
+
+41:20
+
+
+
+
+Overview Appearance
+Version 3 (Current)
+Version 2.5
+Version 2
+Version 1
+Ambush takes on the appearance of a distorted white face with exaggerated proportions. It has a monstrous, abnormally large oval mouth lined with three rows of inner teeth,[1] a set of large, round, black hollow eyes with gray-green bags under them, as well as emitting a green glow, and a smaller red one that appears to be pink when viewed on low graphics settings.
+
+Behavior Behavior
+Ambush has a growing chance to appear as the player progresses. In The Hotel, it can show up as early as Door 3 to as late as Door 86, with a higher likelihood after The Library (Door 50), specifically between doors 82–86. Despite being relatively uncommon, players should still prepare to face Ambush at least once during a complete playthrough. In The Mines, Ambush has a lower appearance probability and can also appear in rooms that follow and can spawn as early as Door 103 and as late as Door 197.
+
+Ambush emits a high-pitched distorted "scream", which signals its arrival. The lights in the next room will then break before Ambush rapidly moves through rooms (with no flickering lights following the Hotel+ Update), dealing 100 damage (which usually is enough to kill) to any players not in a hiding place or "safe spot" during its attack. When it reaches an unopened door, it passes through it (without opening) and into the next room, pausing briefly before turning around and retracing its steps through previous rooms. This behavior, known as rebounding, can occur a maximum of 2 times before despawning. When it reaches a closed door (doors close as players advance—see the notes section of Void for more details), it pauses for a few seconds before either disappearing or changing direction.
+
+Notes
+In previous updates, Ambush could rebound 2-4 times, up to 12 times before the Hotel+ Update, and 6 before The Mines Update
+After The Hunt Update, Ambush can spawn during Seek's crescendo.
+Ambush deals 100 damage, which means that it technically does not instantly kill players, being able to survive with Star Shield or just more Max HP than the default amount.
+Currently, and since The Hunt Update, Ambush can spawn as early as Door 3 in The Hotel and Door 103 in The Mines.
+Before The Hotel+ Update, Ambush could spawn as early as Door 5.[2]
+When The Hotel+ Update released on January 28, 2023, Ambush could spawn as early as Door 2.[3]
+Some days after The Hotel+ Update, Ambush's earliest possible spawned was changed to Door 16.[4]
+In The Modifiers Update, Ambush could spawn as early as Door 9.[5]
+It is extremely likely for Ambush to spawn only once in a full run, but it isn't guaranteed, and can also even appear multiple times.[6]
+Entering The Dining Hall or The Bridges will despawn Ambush.
+Ambush's hitbox operates off of ray-casting. This means that aside from intended hiding places, players can "hide" from Ambush by being in an area that is outside of its line of sight. It is also possible to survive without taking damage just being far enough from Ambush.
+Ambush's ray-casting distance is slightly larger than Rush's, meaning you'll have to be farther from Ambush compared to Rush to avoid taking damage when doing this.
+Before The Mines Update, Ambush's ray-casting distance was immense, being almost impossible to survive by distance, although possible in big enough rooms.
+Ambush cannot spawn in the following rooms:
+Rooms with insufficient hiding spots (Can spawn with certain Modifiers or if number of players exceed 4)
+On The Hotel Doors: 1, 2, 48, 49, 51, 52, 59, 62, 87.
+On The Mines Doors: 101, 102, 137, 138, 139, 140, 141, 151, 198, 199.
+Dark rooms, (Can spawn with certain light Modifiers or Darked rooms by other entities).
+The Greenhouse (Door 90 to 99) (Spawnable with Chat Control or Admin Panel)
+Safe rooms
+The Reception, Door 0
+Library Entrance room
+Hotel's Skinny Hallway
+Pre-Jeff shop room hallway (The Hotel & The Mines).
+Jeff Shop, Door 53–59, 153–162
+The Rooms's subfloor entrance. Door 60
+Mega Gate Basement, Door 61
+Pre-Infirmary room
+The Infirmary, variable
+Pre-Courtyard room, Door 88
+The Courtyard, Door 89
+The Adit, Door 100.5
+Seek's chases
+The room previous from Seek hallway chase intro (The Hotel & The Mines).
+2 Rooms after the seek chase (The Hotel & The Mines).
+The Grand Hallway, variable
+The Caverns, Doors 142–149
+The Sewage Pipes, Doors 169–179
+Halt's sequences
+The next or previous room from a Halt encounter (The Hotel & The Mines).
+The Dining Hall, variable
+The Bridges, variable
+Bossfight sequences
+The Library, Door 50 (Can spawn with certain Modifiers, no longer the case since "Again and Again and Again" was removed)
+The Electrical Room, Door 100
+The Shafts, variable
+The Nest, Door 150
+The Dam, Door 200
+In The Mines, Ambush has a lower spawn rate than in The Hotel.
+In The Mines Update, for unknown reasons, Ambush no longer breaks the lights in the current and previous rooms. However, the lights in the next room break on their own before Ambush initially attacks.
+The lighting will dim slightly when Ambush is close to a room a player is in. The same goes for Rush.
+Ambush will shake the screen the closer it is to you.
+In The Mines, Ambush causes an earthquake to start as a warning.
+Ambush used to be one of the very entities to break the lights. However, after The Mines update, Ambush no longer breaks the lights for unknown reasons.
+After The Great Outdoors Update, Ambush glows brighter and takes longer to rebound.
+
+Advertisement
+SUPER HARD MODE!!!
+Ambush has a greater chance of spawning earlier in the run.
+Since this happened during The Hotel+ Update, Ambush still had its ability to break the lights.
+Ambush's rebounding mechanic back then was different compared to now as this happened during The Hotel+ Update.
+Ambush is almost guaranteed to rebound more than 4 times and has the chance to rebound 10+ times.[citation needed]
+Ambush's ray-casting distance is a lot bigger.
+Ambush deals fatal damage.
+RETRO MODE
+Ambush spawns more often.
+PARTY MODE
+Ambush rebounds only two times.
+Ambush's first rebound is the same mechanic as it was before The Mines Update.
+Ambush's second rebound is the current rebounding mechanic.
+Ambush deals 75 damage instead of 100.
+HOTEL-
+Ambush was more likely to spawn during 90-98 since The Greenhouse didn't exist.
+Ambush flickered the lights as a warning.
+Ambush still had its ability to break the lights as this happened in the early stages of the game.
+Ambush's rebounding mechanic was the same as in SUPER HARD MODE!!!.
+Ambush's ray-casting distance was a lot bigger.
+Ambush instantly spawned upon opening the door, meaning it couldn't be delayed.
+Ambush's damage will be fatal, no matter how much health you have.
+Modifiers Notes
+If the "Back For Seconds" modifier is enabled, Ambush will spawn more frequently.
+If the "Afterimage" modifier is enabled, Ambush will travel much faster, and its spawn rate will slightly increase.
+Trivia Strategy
+In The Hotel, Ambush can spawn as early as Door 3 and as late as Door 86, its chances of spawning before The Library (Door 50) are low. It is most likely to spawn after The Library (Door 50), especially once after the second Seek chase. Ambush is very likely to spawn at least once in a full run. In the case of The Mines, Ambush can spawn as early as Door 103 and as late as Door 197.
+The less rooms are currently generated, the less it will take for Ambush to reach the player ahead when rebounding, having to be more careful after encounters that close the last door.
+Players should only hide when Ambush is not in its idle state and is coming towards their direction, and getting out of the hiding spot when Ambush is going away, while still prepared to hide again when it comes back. Try to hear when Ambush starts getting closer to hide right in time.
+As long if Ambush does not despawn in the front(unopened room). If Ambush rebounds back to its spawn point, the player exits the closet right before of being kicked out by Hide and the player enters to the closet again almost immediately and Hide entity remains aggressive towards the player, that means Ambush is gone. *This does not apply if player is using Rent's due modifier.
+In The Mines, players must remember to switch hiding spots instead of staying near the same hiding spot, as Hide will attack players that try to hide in the last place they hid.
+As timing is an essential part, it is not recommended to hide under beds and other similar hiding spots with very long animations.
+After The Hunt Update, and also applying for The Great Outdoors Update, Rush and Ambush can spawn again after their last encounter (not including The Rooms or The Backdoor nodes entities) every time at least 2 doors are opened, if players are using timer spawn rate modifiers such as Really bad time, Rush Hour, and Back for Seconds, with all previous modifiers enabled at the same time in the worst scenario. Example: Rush(door 15), Rush (Door 17), Ambush (Door 19), A-60 (Door 21).
+This does not apply for A-60, A-120 and Blitz. In this case, there is a chance of having another node entity spawn, or even the same entity again after opening the next door from the last encounter spawn. This can also trigger Ambush and Rush to spawn in a row if players are using timer spawn rate modifier such as Really bad time, Room for More, and Blitz, Oh modifiers are enabled at the same time in the worst scenario. Example: A-60 (Door 25), A-120 (Door 26), Blitz (Door 27), Rush (Door 28).
+However, all of this can still happen without spawn rate modifiers but is pretty unlikely and can be seed based.
+Crucifying: Players can use a crucifix to "banish" Ambush. Because crucifixes are a one-use item, it is best to only crucify Ambush when a player(s) is struggling to hide from Ambush.
+It is recommended that players equip their crucifix while still attempting to survive Ambush by hiding or using a safe spot. By this method, players are largely protected from Ambush and may not necessarily have to use their crucifix to survive it.
+There is a small period (lasting a few frames) when entering and exiting hiding places in which crucifixes will be automatically unequipped (the same goes for all other items). Therefore, players will be vulnerable to Ambush during that period.
+Although very rarely, Ambush can spawn in Doors 152 in The Mines, and it can take a very long time to rebound and arrive. This is because The Nest and The First Seek Chase Rooms are not fully despawned, so Ambush moves through the First Seek Chase Rooms and The Nest. It is recommended to have a Crucifix with you just in case.
+
+Advertisement
+Jumpscare
+1st Person
+Ambush will appear far from the screen, then getting farther, then rushing toward the screen, each time the change in distance changes the pitch of Ambush's scream.
+
+3rd Person
+The player will be run over and their upper half will snap.
+
+Modifiers Modifiers
+Back For Seconds
+"Ambush will attack more."
+Requires 'Unbound'
+Floors: The Hotel, The Mines, The Backdoor (With Admin Panel), The Rooms (With Admin Panel), The Outdoors (With Admin Panel)
+Knobs +10%
+Afterimage
+"Ambush will attack faster."
+Requires 'Unbound'
+Floors: The Hotel, The Mines, The Backdoor (With Admin Panel), The Rooms (With Admin Panel), The Outdoors (With Admin Panel)
+Knobs +10%
+The Again & Again & Again modifier has been officially deleted from the game on the date of 3rd November of 2025.
+
+Bugs Bugs
+The "Rebound" achievement was broken and unobtainable after August 26, 2023 patch (the Modifiers Update). It is now fixed.
+When The Hotel+ Update was first released a bug occurred where Ambush would spawn in the upcoming room instead of the previous room. It would then proceed to rebound in reverse; however, this was fixed shortly after release.
+This bug can still happen if players traveled through many rooms when Ambush is at the back.
+There was a bug where Ambush would bounce off the previous door if the player done a difficult timing. This has been patched.
+You can still make this bug happen when using HOTEL-, but the timing is difficult and Ambush can still kill the player even if it didn't enter the room yet.
+There is currently a bug where Ambush randomly rebounds on its path. This is likely to happen because Ambush might be entering and exiting from a different path instead of the previous door. The same bug happens with Rush, A-60 and Blitz.
+There was a bug where coins may protect players from dying to Rush, Ambush, A-60, A-120 and Blitz. This has since been patched.
+There was a bug where Snare may protect players from dying to Rush, Ambush, A-60 and A-120.
+There is a really rare bug since The Hunt Update where Ambush randomly disappears for a few seconds and appears again where it disappeared. The same can happen with Rush and Blitz.
+There is a bug where if Ambush spawns and there are several opened doors, Void may manifest, teleporting all players into the latest opened room guaranteeing the death of every player.
+Ambush may take up to one minute to rebound, likely due to a bug.[7]
+After The Mines Update, Ambush's voicelines has completely broke and bugged, Ambush now only makes a sound when it reaches close to a player and rebounds.
+If you Select “Uh Oh, How Unfortunate, or Chaos Chaos” Modifiers, There was a chance that Again & Again & Again Would be Selected as long you don’t select Back For Seconds Despite it being removed in the game. This has been patched in The November 3rd 2025 Update.
+There was a bug where if a player died to Ambush, the jumpscare sound for it would continuously play. This has been fixed.
+
+Advertisement
+Trivia Trivia
+Ambush was originally going to be classified as a "Mobble" entity, an alternative version of Jack.[citation needed]
+Excluding non-canon entities, Ambush is the fastest entity in DOORS. It used to be A-60 before. Ambush's speed was increased in 2024 Trick Or Treat Update.
+Ambush is the only entity with multiple "attack" sounds (in which the pitch is always randomly generated, meaning ambush's attack sound can range from 0.5-2 octaves lower/higher than the sound-file).
+Ambush's "scream" originates from an audio called GLITCHY SCREAM LOOP from a user called Condecadence.
+Ambush's scream is in the form of a Shepard's tone.
+Ambush's jumpscare appears when players try to exploit the game. This version of Ambush is called "Anti Cheat Ambush."[exploits]
+Before The Hotel+ Update, a unique Guiding Light message was shown after the jump-scare, which repeated "bruh" multiple times before and after saying that Ambush has killed a player "infinite" times. ("btw ambush killed you infinite times so all your revives are gone sorry")
+After The Hotel+ Update, the message after the jumpscare is the same message players would receive if they died to Ambush typically.
+After dying to Anti-cheat Ambush, 100 revives are removed from player's inventories.
+Anti-cheat Ambush is used to "trick exploits" into thinking that Ambush has spawned typically.[citation needed]
+Before The Hotel+ Update, Ambush could, and was likely to, spawn in Doors 90–98.
+After The Hotel+ Update, Doors 90-98 were replaced by The Greenhouse where Ambush cannot spawn. Because of this, Ambush's likely now spawns between the second Seek chase and The Greenhouse.
+According to RediblesQW, a DOORS developer, a future UGC item may be based on Ambush.[8]
+According to RediblesQW, should Ambush bleed, it can be killed, though it is unknown if it can bleed.[9]
+This is most likely just a more convoluted way of saying Ambush, Rush and other similar node entities can not die.
+Ambush's design was created by Ghostly Wowzers, a DOORS developer, combining and editing facial features that make images "scary" with what resembles a front-facing Jack.[10][11]
+According to Ghostly Wowzers, Ambush's design was not difficult to draw and was mostly drawn in under a day.[12]
+Ambush's image file is titled “scarywormface”, referencing its 2nd original design.[citation needed]
+Ambush's magenta-green glow is present if a player's graphics are set under 3.[citation needed]
+Ambush's red aura is only present if a player's graphics are nearly maxed.
+Ambush is currently the only entity with multiple jumpscares.
+Ambush and Glitch could be connected, as they both share the glitchy effect that Glitch possesses.
+According to his dialogue, Glitch thinks Ambush is beautiful and wants to change it.
+Though Hide, Blitz, A-60, A-90 and A-120 also share this glitchy noise effect so it may just be a stylistic choice. Possibly because of the existence of Glitch in every floor and its creation of the Visions.
+Ambush moves at around 175 studs per second (250 studs per second if Afterimage is enabled).[citation needed]
+According to Glitch, Ambush rebounds to trick the victim.
