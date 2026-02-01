@@ -1,26 +1,40 @@
--- [[ DOORS AI OVERLORD ]] --
+-- [[ DOORS AI OVERLORD - ACTION VERSION ]] --
 local Base = "https://raw.githubusercontent.com/buitunganh677-collab/Script-is-doors/main/script%20doors/"
 
 local Config = loadstring(game:HttpGet(Base .. "config.lua"))()
 local Detection = loadstring(game:HttpGet(Base .. "detection.lua"))()
+local Movement = loadstring(game:HttpGet(Base .. "movement.lua"))()
 
 Config.InitUI()
 
+-- Vòng lặp chính xử lý hành động
 game:GetService("RunService").Heartbeat:Connect(function()
     if not Config.Enabled then return end
 
     for _, entity in pairs(workspace:GetChildren()) do
-        -- Kiểm tra nếu thực thể có trong danh sách file .txt của bạn
-        local action, wiki = Detection.Analyze(entity.Name)
+        -- AI Phân tích từ khóa trong file .txt của bạn
+        local action, wikiText = Detection.Analyze(entity.Name)
         
         if action == "Hide" then
-            -- Thực thi logic trốn (tự tìm tủ gần nhất)
-            print("AI Reading Wiki: Cần đi trốn! Chi tiết: " .. wiki)
+            -- TỰ ĐỘNG TÌM TỦ GẦN NHẤT VÀ NHẢY VÀO
+            local player = game.Players.LocalPlayer
+            for _, v in pairs(workspace:GetDescendants()) do
+                if v.Name == "Closet" and v:IsA("Model") then
+                    local dist = (player.Character.HumanoidRootPart.Position - v.PrimaryPart.Position).Magnitude
+                    if dist < 50 then
+                        Movement.WalkTo(v.PrimaryPart.Position)
+                        -- Kích hoạt tủ
+                        fireproximityprompt(v:FindFirstChildWhichIsA("ProximityPrompt"))
+                        break
+                    end
+                end
+            end
         elseif action == "AvoidEyeContact" then
-            -- Thực thi logic quay mặt đi
-            print("AI Reading Wiki: Không được nhìn! Chi tiết: " .. wiki)
+            -- TỰ ĐỘNG XOAY CAMERA XUỐNG ĐẤT
+            workspace.CurrentCamera.CFrame = CFrame.new(workspace.CurrentCamera.CFrame.Position, workspace.CurrentCamera.CFrame.Position + Vector3.new(0, -10, 0))
+        elseif action == "Stealth" then
+            -- TỰ ĐỘNG NGỒI XUỐNG
+            Movement.SetCrouch(true)
         end
     end
 end)
-
-print("Hệ thống AI Doors đã sẵn sàng.")
