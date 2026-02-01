@@ -3,18 +3,20 @@ local DataManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/b
 
 function Detection.Analyze(entityName)
     local text = DataManager.GetWikiText(entityName)
-    if not text then return "Unknown", "" end
+    if not text then return "None", "" end
 
-    local action = "Info"
+    local action = "None"
     local lowerText = text:lower()
 
-    -- Thuật toán tìm từ khóa trong văn bản Wiki
+    -- Phân tích từ khóa trong file .txt của bạn
     if lowerText:find("hide") or lowerText:find("closet") then
         action = "Hide"
-    elseif lowerText:find("look away") or lowerText:find("stare") then
-        action = "AvoidEyeContact"
-    elseif lowerText:find("crouch") then
-        action = "Stealth"
+    elseif lowerText:find("look away") or lowerText:find("eyes") then
+        action = "LookAway"
+    elseif lowerText:find("crouch") or lowerText:find("figure") then
+        action = "Crouch"
+    elseif lowerText:find("stare") or lowerText:find("screech") then
+        action = "Stare"
     end
 
     return action, text
